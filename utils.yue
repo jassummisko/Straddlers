@@ -1,0 +1,9 @@
+export executeAndCapture = (s) ->
+    pipe = io.popen s
+    f = pipe\read('*a')
+    f = f\sub(1,#f-1)
+    pipe\close!
+    f
+
+export normalize = (s) ->
+    executeAndCapture 'python3 -c "import unicodedata as ud; print(ud.normalize(\\\"NFC\\\",\\\"'..s..'\\\"))"'

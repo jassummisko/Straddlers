@@ -1,0 +1,15 @@
+import "ftcsv" as csv
+import normalize from require "utils"
+
+const featuresPath = "./data/features.tsv"
+
+featureDataVals, featureDataH = csv.parse featuresPath, "\t"
+
+for i, el in ipairs featureDataVals
+    print "NORMALIZING: " .. math.floor((i/#featureDataVals)*100) .. "%" if i%200==1
+    el.segment = normalize el.segment
+
+fileOutput = csv.encode featureDataVals, ","
+file = assert io.open "./data/cleanFeatures.csv", "w"
+file\write fileOutput
+file\close!

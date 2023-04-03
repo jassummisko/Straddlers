@@ -1,0 +1,7 @@
+*.tup
+Tupfile
+*.pdf
+*.md
+*.lua
+settings.json
+*.vscode

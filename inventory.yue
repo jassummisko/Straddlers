@@ -1,0 +1,107 @@
+import "dianchi" as dch 
+import strtools from dch
+unidecode = require "unicorndecode"
+decode = unidecode.decode
+
+export class Segment
+    featureNames: {
+        "tone"
+        "stress"
+        "syllabic"
+        "short"
+        "long"
+        "consonantal"
+        "sonorant"
+        "continuant"
+        "delayedRelease"
+        "approximant"
+        "tap"
+        "trill"
+        "nasal"
+        "lateral"
+        "labial"
+        "round"
+        "labiodental"
+        "coronal"
+        "anterior"
+        "distributed"
+        "strident"
+        "dorsal"
+        "high"
+        "low"
+        "front"
+        "back"
+        "tense"
+        "retractedTongueRoot"
+        "advancedTongueRoot"
+        "periodicGlottalSource"
+        "epilaryngealSource"
+        "spreadGlottis"
+        "constrictedGlottis"
+        "fortis"
+        "raisedLarynxEjective"
+        "loweredLarynxImplosive"
+        "click"
+    }
+    new: (line) =>
+        @raw = line
+        @symbol = line["Phoneme"]
+        @features = {}
+        for feature in *@featureNames
+            @features[feature] = line[feature]
+        @allophones = (strtools.words @raw.Allophones) |> map strtools.trim 
+
+    copy: => Segment @raw
+    setFeature: (feature, value) => @features[feature] = value
+    getFeature: (featureName) => @features[featureName]
+    getEquivalent: (feature, value) =>
+        seg = @copy!
+        seg\setFeature feature, value
+        seg.raw[feature] = value
+        return seg
+
+    __eq: (o) =>
+        for key, value in pairs @features
+            if @features[key] != o.features[key]
+                return false
+        return true
+
+export class Inventory
+    new: (invTable) =>
+        import featureNames from Segment
+        @id = tonumber invTable[1]["InventoryID"]
+        @name = invTable[1]["LanguageName"]         --- Language name
+        dialectName = invTable[1]["SpecificDialect"]
+        @dialect = if dialectName == "NA" then "" else dialectName
+        @inv = [Segment seg for seg in *invTable]   --- Inventory
+    
+    getSegments: => @inv
+
+    getSegmentBySymbol: (symbol) =>
+        for segment in *@inv
+            return segment if segment.symbol == symbol
+
+    getSegmentsByNormalizedSymbol: (symbol) =>
+        buff = {}
+        for segment in *@inv
+            if decode(segment.symbol) == decode(symbol)
+                buff[] = segment
+        return buff
+
+    getSegmentsByFeatures: (tab) =>
+        buff = {}
+        for seg in *@inv
+            skip = false
+            for c in *tab
+                if seg.features[c[1]] != c[2]
+                    skip = true
+                    break
+            continue if skip
+            table.insert buff, seg
+        buff
+
+    hasSegment: (seg) =>
+        --- assert (seg.__class? and seg.__class == Segment), "hasSegment takes a Segment as a parameter"
+        for segment in *@inv
+            return segment if segment == seg
+        return nil

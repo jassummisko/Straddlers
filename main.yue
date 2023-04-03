@@ -1,0 +1,190 @@
+dch = require "dianchi"
+dch.misc.importAll dch.functools
+unidecode = require "unicorndecode"
+import normalize from require "utils"
+import strtools from dch
+import "ftcsv" as csv
+import Segment, Inventory from require "inventory"
+
+copytab = (tab) -> {key, val for key, val in pairs tab}
+
+const languageDataPath    = "./data/phoible.csv"
+const featuresPath        = "./data/cleanFeatures.csv"
+
+print "Reading #{languageDataPath}"
+langDataVals, langDataH = csv.parse languageDataPath, ","
+print "Finished reading #{languageDataPath}"
+
+print "Reading #{featuresPath}"
+featureDataVals, featureDataH = csv.parse featuresPath, ","
+print "Finished reading #{featuresPath}"
+
+STRINGCONTAINS = (str, s) ->
+    for i=1, #str-1
+        if str\sub(i,i+1) == s
+            return true
+    return false
+
+CONTAINS = (e, i) -> ({val, key for key, val in pairs e})[i]?
+
+G_SEGFEATURES = {el.segment, el for el in *featureDataVals}
+
+SEGMENTS_BY_FEATURE_VAL = (feature, value) ->
+    [{symbol:key, features:features} for key, features in pairs G_SEGFEATURES when features[feature] == value]
+
+COMPARE = (rawseg1, rawseg2) ->
+    for key, _ in pairs rawseg1
+        continue if key == "segment"
+        return false if rawseg1[key] != rawseg2[key]
+    return true
+
+GET_EQUIVALENT_BY_FEATURE = (symbol, feature, value) ->
+    if symbol == "g"
+        symbol = "ɡ"
+    tc = G_SEGFEATURES[symbol]
+    return nil unless tc?
+    seg1 = copytab tc 
+    seg1[feature] = value
+    buff = {}
+    for _, s in pairs G_SEGFEATURES
+        if COMPARE seg1, s
+            f = G_SEGFEATURES[s.segment]
+            buff[] = f if f?
+    --- Handle when multiple. Give the most "normal" one
+    if #buff > 1
+        for k, v in pairs buff 
+            return v if (unidecode.decode v.segment) == v.segment
+    else
+        return buff[1]
+
+inventories = {}
+for v in *langDataVals
+    inventories[tonumber(v.InventoryID)] ??= {}
+    inventories[tonumber(v.InventoryID)][] = v
+
+G_INVS = {}
+for inv in *inventories
+    G_INVS[] = Inventory inv
+
+getInventoriesByName = (name) ->
+    buff = {}
+    for inv in *G_INVS
+        if inv.name == name
+            table.insert buff, inv
+    buff
+
+PROCESS_DECODE = (symbol) ->
+    import decode from unidecode
+    return "ɟ" if STRINGCONTAINS symbol, "ɟ"
+    return "ʔ" if STRINGCONTAINS symbol, "ʔ"
+    a = (decode symbol)\lower!
+    while a\sub(1,1)\match("%W")
+        a = a\sub(2,#a)
+    a = a\sub(1,1)
+    a = "ɡ" if a == "g"
+    return a if #a>0
+
+hasVoicelessAndSonorousAllophone = (seg) ->
+    hasVoiceless = false
+    hasSonorant = false
+    DEBUG = {}
+    for allophone in *seg.allophones
+        a = nil
+        if G_SEGFEATURES[allophone]?
+            a = allophone
+        else
+            a = PROCESS_DECODE allophone
+        continue if allophone == "NA"
+        continue unless a?
+        if G_SEGFEATURES[a].periodicGlottalSource == "-"
+            DEBUG[] = a
+            hasVoiceless = true 
+        if G_SEGFEATURES[a].sonorant == "+"
+            DEBUG[] = a
+            hasSonorant = true
+    if hasVoiceless and hasSonorant
+        -- print unpack DEBUG
+    hasVoiceless and hasSonorant
+
+hasSpirantAllophone = (seg) ->
+    for allophone in *seg.allophones
+        a = nil
+        if G_SEGFEATURES[allophone]?
+            a = allophone
+        else
+            return false
+        continue if allophone == "NA"
+        continue unless a?
+        if (G_SEGFEATURES[a].sonorant == "-") and (G_SEGFEATURES[a].continuant == "+")
+            return true
+    return false
+
+main =->
+    filteredLanguages = {}
+    includeSeg = (lang, seg, reason) ->
+        index = tostring lang, seg
+        filteredLanguages[index] ??= {}
+        filteredLanguages[index][] = seg
+        filteredLanguages[index]['reason'] ??= {} 
+        filteredLanguages[index]['reason'][reason] = true
+
+    for lang in *G_INVS
+        INCREMENT = false
+        allVoiced = {
+                ...lang\getSegmentsByFeatures {
+                    {"periodicGlottalSource", "+"}
+                    {"sonorant", "-"}
+                    {"continuant", "+"}
+                    {"strident", "-"}
+                }
+                ...lang\getSegmentsByFeatures {
+                    {"periodicGlottalSource", "+"}
+                    {"sonorant", "-"}
+                    {"continuant", "+"}
+                    {"strident", "0"}
+                }
+        }
+        for seg in *allVoiced
+            
+            if seg.symbol == unidecode.decode seg.symbol
+                temp = seg\getEquivalent "periodicGlottalSource", "-"
+                if not (lang\hasSegment temp)?
+                    includeSeg lang, seg, "Voiced obs with no voiceless eq."
+            else
+                temp = seg\getEquivalent "periodicGlottalSource", "-"
+                if not (lang\hasSegment temp)?
+                    if not (lang\getSegmentBySymbol unidecode.decode seg.symbol)?
+                        buff = unidecode.decode seg.symbol
+                        voicEq = GET_EQUIVALENT_BY_FEATURE buff, "periodicGlottalSource", "-"
+                        voicEq ??= {segment: "NOT_FOUND"}
+                        voicAspEq = GET_EQUIVALENT_BY_FEATURE voicEq.segment, "spreadGlottis", "+"
+                        voicAspEq ??= {segment: "NOT_FOUND"}
+                        if (not (lang\getSegmentBySymbol voicEq.segment)?) and (not (lang\getSegmentBySymbol voicAspEq.segment)?)
+                            includeSeg lang, seg, "Voiced obs with no voiceless eq."
+
+            if hasVoicelessAndSonorousAllophone seg
+                includeSeg lang, seg, "Has both sonorous and voiceless allophone"
+            
+            if (seg\getFeature "continuant") == "-"
+                if hasSpirantAllophone seg
+                    includeSeg lang, seg, "Has spirantizing plosives"
+
+    langs = [seg for _, seg in pairs filteredLanguages]
+    for lang in *langs
+        langName = lang[1].raw.InventoryID.."\t"..lang[1].raw.LanguageName .. ":\t"
+        io.write langName.."\t"
+        for seg in *lang
+            io.write seg.symbol.." "
+        print!
+    print "Found #{#langs} languages"
+
+    reasons = {}
+    for lang in *langs
+        for res, num in pairs lang.reason 
+            reasons[res] ??= 0
+            reasons[res] += 1
+
+    for reason, num in pairs reasons
+        print reason, num
+
+main!
