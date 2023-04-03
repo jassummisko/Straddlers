@@ -1,7 +1,9 @@
 *.tup
 Tupfile
 *.pdf
-*.md
+TODO.md
+data/features.tsv
+data/phoible.csv
 *.lua
 settings.json
 *.vscode
