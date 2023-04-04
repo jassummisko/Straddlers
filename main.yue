@@ -39,8 +39,7 @@ COMPARE = (rawseg1, rawseg2) ->
     return true
 
 GET_EQUIVALENT_BY_FEATURE = (symbol, feature, value) ->
-    if symbol == "g"
-        symbol = "ɡ"
+    if symbol == "g" then symbol = "ɡ"
     tc = G_SEGFEATURES[symbol]
     return nil unless tc?
     seg1 = copytab tc 
@@ -119,6 +118,13 @@ hasSpirantAllophone = (seg) ->
             return true
     return false
 
+createTsv = (tab) ->
+    import join from dch.strtools 
+    str = ""
+    for line in *tab
+        str ..= join(line, "\t") .. "\n"
+    str
+
 main =->
     filteredLanguages = {}
     includeSeg = (lang, seg, reason) ->
@@ -134,22 +140,24 @@ main =->
                 ...lang\getSegmentsByFeatures {
                     {"periodicGlottalSource", "+"}
                     {"sonorant", "-"}
-                    {"continuant", "+"}
-                    {"strident", "-"}
                 }
-                ...lang\getSegmentsByFeatures {
-                    {"periodicGlottalSource", "+"}
-                    {"sonorant", "-"}
-                    {"continuant", "+"}
-                    {"strident", "0"}
-                }
+                    ---{"continuant", "+"}
+                    ---{"strident", "-"}
+                ---}
+                ---...lang\getSegmentsByFeatures {
+                    ---{"periodicGlottalSource", "+"}
+                    ---{"sonorant", "-"}
+                    ---{"continuant", "+"}
+                    ---{"strident", "0"}
+                ---}
         }
         for seg in *allVoiced
             
             if seg.symbol == unidecode.decode seg.symbol
                 temp = seg\getEquivalent "periodicGlottalSource", "-"
                 if not (lang\hasSegment temp)?
-                    includeSeg lang, seg, "Voiced obs with no voiceless eq."
+                    unless seg.features.labial == "+"
+                        includeSeg lang, seg, "Voiced obs with no voiceless eq."
             else
                 temp = seg\getEquivalent "periodicGlottalSource", "-"
                 if not (lang\hasSegment temp)?
@@ -160,7 +168,8 @@ main =->
                         voicAspEq = GET_EQUIVALENT_BY_FEATURE voicEq.segment, "spreadGlottis", "+"
                         voicAspEq ??= {segment: "NOT_FOUND"}
                         if (not (lang\getSegmentBySymbol voicEq.segment)?) and (not (lang\getSegmentBySymbol voicAspEq.segment)?)
-                            includeSeg lang, seg, "Voiced obs with no voiceless eq."
+                            unless seg.features.labial == "+"
+                                includeSeg lang, seg, "Voiced obs with no voiceless eq."
 
             if hasVoicelessAndSonorousAllophone seg
                 includeSeg lang, seg, "Has both sonorous and voiceless allophone"
@@ -170,6 +179,23 @@ main =->
                     includeSeg lang, seg, "Has spirantizing plosives"
 
     langs = [seg for _, seg in pairs filteredLanguages]
+    finalOutput = {{"LanguageName", "Glottocode", "SpecificDialect", "OffendingSegments", "ReasonsForInclusion"}}
+    for lang in *langs
+        languageName = lang[1].raw.LanguageName
+        glottocode = lang[1].raw.Glottocode
+        specificDialect = lang[1].raw.SpecificDialect
+        segments = do
+            buff = {}
+            for seg in *lang
+                buff[] = seg.symbol
+            dch.strtools.join buff
+        reasons = dch.strtools.join [el for el in pairs lang.reason], "; "
+        finalOutput[] = {languageName, glottocode, specificDialect, segments, reasons}
+
+    ---outputFile = assert io.open "data/offendingLanguages.tsv", "w"
+    ---outputFile\write createTsv finalOutput
+    ---outputFile\close!
+
     for lang in *langs
         langName = lang[1].raw.InventoryID.."\t"..lang[1].raw.LanguageName .. ":\t"
         io.write langName.."\t"
