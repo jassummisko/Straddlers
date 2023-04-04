@@ -192,25 +192,25 @@ main =->
         reasons = dch.strtools.join [el for el in pairs lang.reason], "; "
         finalOutput[] = {languageName, glottocode, specificDialect, segments, reasons}
 
-    ---outputFile = assert io.open "data/offendingLanguages.tsv", "w"
-    ---outputFile\write createTsv finalOutput
-    ---outputFile\close!
+    outputFile = assert io.open "data/offendingLanguages.tsv", "w"
+    outputFile\write createTsv finalOutput
+    outputFile\close!
 
-    for lang in *langs
-        langName = lang[1].raw.InventoryID.."\t"..lang[1].raw.LanguageName .. ":\t"
-        io.write langName.."\t"
-        for seg in *lang
-            io.write seg.symbol.." "
-        print!
-    print "Found #{#langs} languages"
+    ---for lang in *langs
+        ---langName = lang[1].raw.InventoryID.."\t"..lang[1].raw.LanguageName .. ":\t"
+        ---io.write langName.."\t"
+        ---for seg in *lang
+            ---io.write seg.symbol.." "
+        ---print!
+    ---print "Found #{#langs} languages"
 
-    reasons = {}
-    for lang in *langs
-        for res, num in pairs lang.reason 
-            reasons[res] ??= 0
-            reasons[res] += 1
+    ---reasons = {}
+    ---for lang in *langs
+        ---for res, num in pairs lang.reason 
+            ---reasons[res] ??= 0
+            ---reasons[res] += 1
 
-    for reason, num in pairs reasons
-        print reason, num
+    ---for reason, num in pairs reasons
+        ---print reason, num
 
 main!
