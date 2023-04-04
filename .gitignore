@@ -7,3 +7,5 @@ data/phoible.csv
 *.lua
 settings.json
 *.vscode
+data/familydata.tsv
+*.sc
