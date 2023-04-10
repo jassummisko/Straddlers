@@ -156,7 +156,7 @@ main =->
             if seg.symbol == unidecode.decode seg.symbol
                 temp = seg\getEquivalent "periodicGlottalSource", "-"
                 if not (lang\hasSegment temp)?
-                    unless seg.features.labial == "+"
+                    unless seg.features.labial == "+" or seg.features.loweredLarynxImplosive == "+"
                         includeSeg lang, seg, "Voiced obs with no voiceless eq."
             else
                 temp = seg\getEquivalent "periodicGlottalSource", "-"
@@ -168,7 +168,7 @@ main =->
                         voicAspEq = GET_EQUIVALENT_BY_FEATURE voicEq.segment, "spreadGlottis", "+"
                         voicAspEq ??= {segment: "NOT_FOUND"}
                         if (not (lang\getSegmentBySymbol voicEq.segment)?) and (not (lang\getSegmentBySymbol voicAspEq.segment)?)
-                            unless seg.features.labial == "+"
+                            unless seg.features.labial == "+" or seg.features.loweredLarynxImplosive == "+"
                                 includeSeg lang, seg, "Voiced obs with no voiceless eq."
 
             if hasVoicelessAndSonorousAllophone seg
