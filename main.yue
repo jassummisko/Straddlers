@@ -140,9 +140,8 @@ main =->
                 ...lang\getSegmentsByFeatures {
                     {"periodicGlottalSource", "+"}
                     {"sonorant", "-"}
+                    {"continuant", "+"}
                 }
-                    ---{"continuant", "+"}
-                    ---{"strident", "-"}
                 ---}
                 ---...lang\getSegmentsByFeatures {
                     ---{"periodicGlottalSource", "+"}
@@ -196,13 +195,13 @@ main =->
     outputFile\write createTsv finalOutput
     outputFile\close!
 
-    ---for lang in *langs
-        ---langName = lang[1].raw.InventoryID.."\t"..lang[1].raw.LanguageName .. ":\t"
-        ---io.write langName.."\t"
-        ---for seg in *lang
-            ---io.write seg.symbol.." "
-        ---print!
-    ---print "Found #{#langs} languages"
+    for lang in *langs
+        langName = lang[1].raw.InventoryID.."\t"..lang[1].raw.LanguageName .. ":\t"
+        io.write langName.."\t"
+        for seg in *lang
+            io.write seg.symbol.." "
+        print!
+    print "Found #{#langs} languages"
 
     ---reasons = {}
     ---for lang in *langs

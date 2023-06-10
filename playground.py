@@ -25,7 +25,7 @@ for area in splitByMacroArea:
             if doAdd:
                 finalChoice[area].append(c)
 
-for area in finalChoice:
-   print(f"Area: {area}")
-   for lang in finalChoice[area]:
-       print(f"{lang[0]} | {lang[1]} | {lang[2]} | {lang[3]} | {lang[5]}") 
+#for area in finalChoice:
+   #print(f"Area: {area}")
+for lang in finalChoice["South America"]:
+    print(f"{lang[0]} | {lang[1]} | {lang[2]} | {lang[3]} | {lang[5]}") 

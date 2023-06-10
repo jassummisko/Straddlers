@@ -1,753 +1,309 @@
 LanguageName	Glottocode	SpecificDialect	OffendingSegments	ReasonsForInclusion
-Thaynakwithi	tyan1235	NA	ð	Voiced obs with no voiceless eq.
-Mara	mara1385	NA	d ɡ	Voiced obs with no voiceless eq.
-Tzeltal	tzel1254	NA	d ɡ ɡ	Has spirantizing plosives; Voiced obs with no voiceless eq.
-Yurok	yuro1248	NA	k̰ʷ t̠ʃ̰ t̰	Voiced obs with no voiceless eq.
-Gutob	bodo1267	Gutob (Koraput)	ɟ	Voiced obs with no voiceless eq.
-Iyive	iyiv1238	NA	ɡʲ	Voiced obs with no voiceless eq.
-Orokaiva	orok1269	NA	b dz dz	Has spirantizing plosives; Voiced obs with no voiceless eq.
-PHLONG	pwon1235	NA	ʝ	Voiced obs with no voiceless eq.
-Texistepec Popoluca	texi1237	NA	dʲ	Voiced obs with no voiceless eq.
-TZELTAL	tzel1254	NA	ɡ	Voiced obs with no voiceless eq.
-HINDI-URDU	hind1269	NA	ɦ	Voiced obs with no voiceless eq.
-Sindhi	sind1272	Vicholi	bɦ d̪ɦ ɖɦ ɟɦ ɡɦ	Voiced obs with no voiceless eq.
-Baruga	baru1269	NA	d̠ʒ	Voiced obs with no voiceless eq.
-KHALKHA	halh1238	NA	d̠ʒ d̪z̪|dz d̪|d ɡ	Voiced obs with no voiceless eq.
+English	stan1293	NA	v	Has both sonorous and voiceless allophone
 French	stan1290	NA	ɦ	Voiced obs with no voiceless eq.
-BoRo	boro1277	NA	dz	Voiced obs with no voiceless eq.
-Dzuungoo	dzuu1241	NA	dz	Has spirantizing plosives
-English (American)	stan1293	Western and Mid-Western US; Southern California	d ɡ	Voiced obs with no voiceless eq.
-Batak	bata1289	NA	d̠ʒ	Voiced obs with no voiceless eq.
-Chrau	chra1242	NA	d	Voiced obs with no voiceless eq.
-Low German	nort2627	Ukrainian	d ɡ	Voiced obs with no voiceless eq.
-ISOKO	isok1239	NA	ɣʷ	Voiced obs with no voiceless eq.
-PARAUK	para1301	NA	ʒ̤	Voiced obs with no voiceless eq.
-KHARIA	khar1287	NA	ɦ	Voiced obs with no voiceless eq.
-Betta Kurumba	bett1235	NA	d̠ʒ	Voiced obs with no voiceless eq.
-WAPISHANA	wapi1253	NA	d ɡ	Voiced obs with no voiceless eq.
-KWAKW'ALA	kwak1269	NA	d dz dɮ ɡʷ ɢ ɢʷ	Voiced obs with no voiceless eq.
-Mwali	mwal1237	NA	d dz d̠ʒ	Has spirantizing plosives; Voiced obs with no voiceless eq.
-Ndebele	nort2795	NA	d d̠ʒ ɡ ɣ ʒ	Voiced obs with no voiceless eq.
-Asmat	tamn1235	NA	ʝ	Voiced obs with no voiceless eq.
-Burun	buru1301	Kurmuk	z	Voiced obs with no voiceless eq.
-Mauritian Creole	mori1278	Ordinary'	d̪ t̰ t̰	Has spirantizing plosives; Voiced obs with no voiceless eq.
-Arabic	stan1318	Safad, Beirut, Damascus, Kuwait	d̙ˤ d̪ d̪ʒ ð̪̙ˤ ɣ ʕ̙	Voiced obs with no voiceless eq.
-Kota	kota1263	NA	d d̠ʒ d̠ʒ d̪ ɡ ɡ	Has spirantizing plosives; Voiced obs with no voiceless eq.
-Anyi	anyi1245	NA	ɡʷ	Voiced obs with no voiceless eq.
-ADZERA	adze1240	NA	d̪z̪|dz d̪|d ɡ	Voiced obs with no voiceless eq.
-Fulfulde (Cameroon)	adam1253	CAM	dː ʒ	Voiced obs with no voiceless eq.
-KASHMIRI	kash1277	NA	ɦ	Voiced obs with no voiceless eq.
-Kamasau	kama1367	NA	dz	Voiced obs with no voiceless eq.
-Kenyang	keny1279	NA	d	Has spirantizing plosives
-Mennonite Plautdietsch	plau1238	NA	ɡ	Voiced obs with no voiceless eq.
-Bajau, West Coast; Land Bajaw; West Coast Bajao	west2560	NA	d̠ʒ	Voiced obs with no voiceless eq.
-INUIT	kala1399	NA	ʁ ʝ	Voiced obs with no voiceless eq.
-ACHUMAWI	achu1247	NA	d̠ʒ	Voiced obs with no voiceless eq.
-Awngi	awng1244	NA	b d̠ʒ ʁ ʁʷ	Has spirantizing plosives; Voiced obs with no voiceless eq.
-Fwe	fwee1238	NA	dz dʷʲ	Voiced obs with no voiceless eq.
-NANAI	nana1257	NA	ʝ	Voiced obs with no voiceless eq.
-Hill Jarawa	izer1241	NA	b	Has spirantizing plosives
-Barein (Komiya)	bare1279	Komiya	ɟː	Voiced obs with no voiceless eq.
-Shabo	shab1252	NA	ɟ	Has spirantizing plosives
-AHTNA	ahte1237	NA	d dz dɮ ɡ ɢ	Voiced obs with no voiceless eq.
-Yakut	yaku1245	NA	ɡ	Has spirantizing plosives
-Subiya	subi1246	NA	d̠ʒʷ	Voiced obs with no voiceless eq.
-Yeyi	yeyi1239	NA	d dzʷ ɟʷ	Voiced obs with no voiceless eq.
-Ke''o; Kéo'	keoo1238	Udiworowatu	ˀd	Voiced obs with no voiceless eq.
-Adioukrou	adio1239	NA	dz	Voiced obs with no voiceless eq.
-Kunimaipa	kuni1267	NA	b d̪ ɡ	Has spirantizing plosives
-Nzema	nzim1238	NA	b ɡʷ	Has spirantizing plosives; Voiced obs with no voiceless eq.
-English	stan1293	NA	d v ɡ	Has both sonorous and voiceless allophone; Voiced obs with no voiceless eq.
-Mingrelian	ming1252	Mingrelian (Martvili)	d̪ ɡ	Voiced obs with no voiceless eq.
-Meadow Mari	east2328	Meadow Mari (Joškar-Ola)	ð̪̺	Voiced obs with no voiceless eq.
-JOMANG	talo1250	NA	d ɡ	Voiced obs with no voiceless eq.
-Cayapa	chac1249	NA	ɡ	Has spirantizing plosives
-!XU	juho1239	NA	ɦ	Voiced obs with no voiceless eq.
-Kulango	boun1243	Bouna	ɡ	Has spirantizing plosives
-Lagwan	lagw1237	NA	ʁ ʁʷ	Voiced obs with no voiceless eq.
-Gamo	gamo1243	NA	d̠ʒ d̪ ɡ	Voiced obs with no voiceless eq.
-Betta Kurumba	bett1235	NA	d̠ʒ	Voiced obs with no voiceless eq.
-Samo de Toma	sout2844	NA	ɡʲ	Voiced obs with no voiceless eq.
-Denya	deny1238	NA	b	Has spirantizing plosives
-Portuguese (Brazilian)	port1283	São Paulo	z	Voiced obs with no voiceless eq.
-Laz	lazz1240	Laz (Ardeşen)	d̪ ɡ	Voiced obs with no voiceless eq.
-Linngithigh	leni1238	NA	ð ɣ	Voiced obs with no voiceless eq.
-Ingush	ingu1240	NA	d̪ d̪ˤ zˤ ɡ ɡʲ ʁ ʒˤ	Voiced obs with no voiceless eq.
-Guajajára	guaj1255		z	Voiced obs with no voiceless eq.
-KABARDIAN	kaba1278	NA	d̪ ɡʲ ɡʷ ɦ	Voiced obs with no voiceless eq.
-Runyankore	nyan1307	NA	b	Has spirantizing plosives
-Bariai	bari1286	NA	b d ɡ	Has spirantizing plosives; Has both sonorous and voiceless allophone
-Weh	wehh1238	NA	b	Has spirantizing plosives
-Sherbro	sher1258	NA	ɡ	Has spirantizing plosives
-Buol	buol1237	NA	d d̠ʒ	Voiced obs with no voiceless eq.
-Tiba	gaaa1245	NA	d̠ʒ ɟ	Voiced obs with no voiceless eq.
-Balti	balt1258	NA	ɮ	Voiced obs with no voiceless eq.
-Ogh Awarrangg	kawa1290	NA	ð ɣ	Voiced obs with no voiceless eq.
-Talasa	tumt1243	NA	d̪ d̪ː ɖ ɖː ɡ ɡː	Voiced obs with no voiceless eq.
-Baima	baim1244	NA	ɦ	Voiced obs with no voiceless eq.
-Suruahá	suru1263		d̠ʒ	Voiced obs with no voiceless eq.
-Aghem	aghe1239	NA	d ɡ ɣ	Voiced obs with no voiceless eq.
-USAN	usan1239	NA	ɡ	Voiced obs with no voiceless eq.
-Vame	vame1236	NA	ɣʷ	Voiced obs with no voiceless eq.
-Befang	befa1241	NA	ʒ	Voiced obs with no voiceless eq.
-KUNIMAIPA	kuni1267	NA	d̪	Voiced obs with no voiceless eq.
-Mbodomo	gbay1281	NA	ɡ	Has spirantizing plosives
-Gimira	benc1235	Benchnon	ɡʷ	Voiced obs with no voiceless eq.
-Shupamem	bamu1253	NA	b d d̠ʒ d̠ʒ	Has both sonorous and voiceless allophone; Has spirantizing plosives; Voiced obs with no voiceless eq.
-KOTA	kota1263	NA	d d̠ʒ ɡ	Voiced obs with no voiceless eq.
-Bhili	bhil1251	NA	ɟ̤ʝ	Voiced obs with no voiceless eq.
-AVAR	avar1256	NA	d̪|d ɡ ʕ̝	Voiced obs with no voiceless eq.
-Ket	kett1243	NA	b ʝ	Has spirantizing plosives; Voiced obs with no voiceless eq.
-Ambele	ambe1247	NA	d̠ʒʷ ɡʲ	Voiced obs with no voiceless eq.
-Adzera	adze1240	NA	d dz ɡ	Voiced obs with no voiceless eq.
-Buli	buli1254	NA	ɡ	Has spirantizing plosives
-Murle	murl1244	NA	z	Voiced obs with no voiceless eq.
-IRAQW	iraq1241	NA	ʕ̝	Voiced obs with no voiceless eq.
-Grebo	nort2810	NA	dz	Voiced obs with no voiceless eq.
-French	stan1290	French (Parisian speaker)	ʁ	Voiced obs with no voiceless eq.
-Agaw	qima1242	NA	b d	Has spirantizing plosives; Voiced obs with no voiceless eq.
-Tukang Besi	tuka1248	Wanci, Kaledupa	d̠ʒ β	Has both sonorous and voiceless allophone; Voiced obs with no voiceless eq.
-Ngishe	ngos1238	NA	ɡʱ	Voiced obs with no voiceless eq.
-Skou	nucl1634	NA	b	Has spirantizing plosives
-Nuer	nuer1246	NA	ɦ	Voiced obs with no voiceless eq.
-Konni	konn1242	NA	b ɡ	Has spirantizing plosives
-Arbore	arbo1245	NA	d̠ʒ d̠ʒː d̪ d̪ː ɡ ɡː	Voiced obs with no voiceless eq.
-Chechen	chec1245	NA	z ʒ	Voiced obs with no voiceless eq.
-Italian	ital1282	Standard Italian	ʒ	Voiced obs with no voiceless eq.
-Furu	furu1242	NA	ʒ	Voiced obs with no voiceless eq.
-Karen	sgaw1245	NA	ɦ	Voiced obs with no voiceless eq.
-Tuvan	tuvi1240	Tuvan (Standard)	ɡ ɣ	Voiced obs with no voiceless eq.
-Ndra'ngith	ndra1239	NA	ð	Voiced obs with no voiceless eq.
-MARI	east2328	NA	ð	Voiced obs with no voiceless eq.
-Twampa	uduk1239	NA	d̠ʒ	Voiced obs with no voiceless eq.
-Hill Guang	cher1271	Gwa	d̪ ɡ	Voiced obs with no voiceless eq.
-Assamese	assa1263	Eastern districts of Assam (North Eastern state of India); Jorhat	b	Has spirantizing plosives
-Ga	gaaa1244	NA	d d̠ʒ ɡ	Voiced obs with no voiceless eq.
-TIGAK	tiga1245	NA	ɮ	Voiced obs with no voiceless eq.
-Dime	dime1235	NA	b	Has spirantizing plosives
-Copi	copi1238	NA	d̤ɮ̤ ɦ̤	Voiced obs with no voiceless eq.
-Kabiye	kabi1261	Somdina	d ɖ ɡ	Has both sonorous and voiceless allophone; Voiced obs with no voiceless eq.
-Kusunda	kusu1250	NA	b dz ɡ ɢ	Has spirantizing plosives
-Popoluca de Sayula	sayu1241	NA	ɡ	Voiced obs with no voiceless eq.
-Shixing	shix1238	NA	z̩	Voiced obs with no voiceless eq.
-Mocovi	moco1246	NA	d̠ʒ ʁ	Has spirantizing plosives; Voiced obs with no voiceless eq.
-Bakaka (Babong)	baka1273	Babong	ɡ	Voiced obs with no voiceless eq.
-Kabardian	kaba1278	Kabardian (Turkish)	d ɡʲ ɡʷ	Voiced obs with no voiceless eq.
-Ndonga (Kolonkadhi)	ndon1254	Kolonkadhi	dʲ	Voiced obs with no voiceless eq.
-Basque	basq1248	NA	b d ɟ ɡ	Has spirantizing plosives
-ITELMEN	itel1242	NA	ʝ	Voiced obs with no voiceless eq.
-Gouro	guro1248	NA	dʲ	Voiced obs with no voiceless eq.
-Wazirwola	cent1973	Wazirwola (North Wazīrī)	dz d̪ ɖ ɡ	Voiced obs with no voiceless eq.
-Swedish	swed1254	Stockholm	ʝ	Voiced obs with no voiceless eq.
-myene	myen1241	NA	ɡ	Has spirantizing plosives
-Birifor	sout2790	NA	d	Has both sonorous and voiceless allophone
-Coeur d''Alene'	coeu1236	NA	ʕ ʕʷ	Voiced obs with no voiceless eq.
-Isaka	kris1246	NA	b	Has spirantizing plosives
-Fuliiru	fuli1240	NA	d̠ʒ	Voiced obs with no voiceless eq.
-Lele	lele1266	NA	d̠ʒ	Voiced obs with no voiceless eq.
-Khasi	khas1269	NA	d̠ʒ	Voiced obs with no voiceless eq.
 Danish	dani1285	NA	ʁ	Voiced obs with no voiceless eq.
-Burushaski	buru1296	NA	d̠ʒ ɖʐ	Has spirantizing plosives
-Iten	eten1239	NA	dʷʲ ɡʷ ɡʷʲ	Voiced obs with no voiceless eq.
-EKARI	ekar1243	NA	ɡˡ	Voiced obs with no voiceless eq.
-Karaim	kara1464	Karaim (Northwestern)	d dʲ ɡ ɡʲ	Voiced obs with no voiceless eq.
-Spokan	spok1245	NA	k̰ʷ q̰ʷ t̠ʃ̰ ʕ ʕʷ ʕ̰ ʕ̰ʷ	Voiced obs with no voiceless eq.
-IVATAN	ivat1242	NA	d	Voiced obs with no voiceless eq.
-Mwotlap	motl1237	NA	ɣ	Voiced obs with no voiceless eq.
-Kadugli (Kadugli)	katc1249	Kadugli	ɟː	Voiced obs with no voiceless eq.
-Maay	maay1238	Lower Jubba	b d d̠ʒ ɡ	Has spirantizing plosives; Voiced obs with no voiceless eq.
-Mbay	mbay1241	NA	d̠ʒ	Voiced obs with no voiceless eq.
-KEWA	east2516	NA	ɡ	Voiced obs with no voiceless eq.
-Tadaksahak	tada1238	NA	zː	Voiced obs with no voiceless eq.
-kwezo	kwes1244	NA	d d̠ʒ ɡ	Voiced obs with no voiceless eq.
-Waurá	waur1244		ʒ	Voiced obs with no voiceless eq.
-Otomi	mezq1235	NA	b d ɡ	Has spirantizing plosives
-English	stan1293	English (RP)	d ɡ	Voiced obs with no voiceless eq.
-Igbo	nucl1417	Standard Igbo (can be seen as a fusion of aspects of central Igbo and Onitsha Igbo; cannot be localised in any particular region or area of Igboland)	b ɦ	Has spirantizing plosives; Voiced obs with no voiceless eq.
-Irish Gaelic	iris1253	NA	d ɡ ɡ̟	Voiced obs with no voiceless eq.
-Tashlhiyt Berber	tach1250	NA	ʁ ʁʷ ʁʷː ʁː ʒˤː ʕ ʕː	Has both sonorous and voiceless allophone; Voiced obs with no voiceless eq.
+French	stan1290	NA	ʁ	Voiced obs with no voiceless eq.
+Hill Mari	west2392	Hill Mari (Kozmodemjansk)	ð̪̺	Voiced obs with no voiceless eq.
 Armenian	nucl1235	NA	ʐ͇	Has both sonorous and voiceless allophone
-Chukchi	chuk1273	NA	ʐ͇	Voiced obs with no voiceless eq.
-Samba Leko	samb1305	NA	d̠ʒ ɡ	Has spirantizing plosives; Voiced obs with no voiceless eq.
-IATE	fuln1247	NA	ɦ	Voiced obs with no voiceless eq.
-Buriat	russ1264	Buriat (Standard)	dʲ d̺ ɡʲ ɢ	Voiced obs with no voiceless eq.
-Swahili	swah1253	NA	ʄ	Has spirantizing plosives
-Jarawara	jama1261	Jarawara	ɟ	Voiced obs with no voiceless eq.
-Awu Alaya	thay1248	NA	ð ɣ	Voiced obs with no voiceless eq.
-DIEGUENO	kumi1248	NA	ɮ̪	Voiced obs with no voiceless eq.
-Holoholo	holo1240	NA	d d̠ʒ ɡ	Has spirantizing plosives; Voiced obs with no voiceless eq.
-Mingrelian	ming1252	Mingrelian (Senaki)	d̪ ɡ	Voiced obs with no voiceless eq.
-Comox	como1259	NA	k̰ʷ q̰ʷ t̠ʃ̰	Voiced obs with no voiceless eq.
-Nepali	nepa1254	Standard (eastern)	ɦ	Voiced obs with no voiceless eq.
-Gunwinggu	gunw1252	NA	dʲ d̪ ɖ ɡ	Voiced obs with no voiceless eq.
-BATS	bats1242	NA	d̠ʒ d̪ d̪z̪ ɡ ʕ̝	Voiced obs with no voiceless eq.
-EWE	ewee1241	NA	d̪ ɡ	Voiced obs with no voiceless eq.
-Atayal	atay1247	NA	ʒ	Voiced obs with no voiceless eq.
-Jur mödö	jurm1239	NA	ɗʒ	Voiced obs with no voiceless eq.
-Kpelle	libe1247	NA	ɡ̩ʷ	Voiced obs with no voiceless eq.
-Israeli Hebrew	hebr1245	NA	ʁ	Voiced obs with no voiceless eq.
-Rigwe	irig1241	NA	ðʲ ˀɡʷ	Voiced obs with no voiceless eq.
-QUECHUA	sout2991	NA	ð	Voiced obs with no voiceless eq.
-Bhele	bhel1238	NA	d̠ʒ	Voiced obs with no voiceless eq.
-IRARUTU	irar1238	NA	ʝ	Voiced obs with no voiceless eq.
-Koreguaje	kore1283		d̠ʒ	Voiced obs with no voiceless eq.
-ARABIC	egyp1253	NA	d̠ʒ	Voiced obs with no voiceless eq.
-Reunionnais	reun1238	NA	ʁ	Voiced obs with no voiceless eq.
-Tukita	kara1474	NA	d d̠ʒ ɡ	Voiced obs with no voiceless eq.
-Akha	akha1245	NA	d̠ʒ	Voiced obs with no voiceless eq.
-Mocoví	moco1246		ʁ	Voiced obs with no voiceless eq.
-XIAMEN	minn1241	NA	d̠ʒ	Voiced obs with no voiceless eq.
-Aritinngithigh	arit1239	NA	ð	Voiced obs with no voiceless eq.
-Kambera	kamb1299	NA	d̠ʒ	Voiced obs with no voiceless eq.
-Muna	muna1247	NA	ʁ	Voiced obs with no voiceless eq.
-Kuikúro-Kalapálo	kuik1246		dʲ	Voiced obs with no voiceless eq.
-Kumyk	kumy1244	NA	ɡ ʁ ʕ	Voiced obs with no voiceless eq.
-LUGBARA	lugb1240	NA	d̪̰	Voiced obs with no voiceless eq.
-Pichi	fern1234	NA	ʁ	Voiced obs with no voiceless eq.
-Minyanka	mama1271	NA	ɡ ʕ	Has spirantizing plosives; Voiced obs with no voiceless eq.
-Bena	bena1262	NA	d ɡ	Voiced obs with no voiceless eq.
-VANIMO	vani1248	NA	ɦ	Voiced obs with no voiceless eq.
-YIDINY	yidi1250	NA	d ɡ	Voiced obs with no voiceless eq.
-Dutch	dutc1256	NA	ɦ	Voiced obs with no voiceless eq.
-Persian	west2369	NA	d ɡ ɢ ɢ	Has spirantizing plosives; Voiced obs with no voiceless eq.
-Yuracure	yura1255	NA	dʲ	Voiced obs with no voiceless eq.
-Mavea	mafe1237	Mavea	v	Has both sonorous and voiceless allophone
-ZULU	zulu1248	NA	d̠ʒ	Voiced obs with no voiceless eq.
-SUENA	suen1241	NA	d̪z̪|dz	Voiced obs with no voiceless eq.
-Oykangand	oyka1239	NA	ð ɣ	Voiced obs with no voiceless eq.
-Didinga	didi1258	NA	ðː ʒ	Voiced obs with no voiceless eq.
-Degema	dege1246	NA	d̠ʒ	Voiced obs with no voiceless eq.
-Juhuri	jude1256	NA	d d̠ʒ ɡ ɢ	Voiced obs with no voiceless eq.
-Mpumpun	mpon1254	Yokadouma	d ɡ	Voiced obs with no voiceless eq.
-Kwanyama	kuan1247	NA	d̠ʒ	Voiced obs with no voiceless eq.
-Kabardian	kaba1278	NA	d̻ ɡʷ ɡ̟ʲ ɦ	Voiced obs with no voiceless eq.
-Ngan'gityemerri	nang1259	NA	z̺	Voiced obs with no voiceless eq.
-Sesotho	sout2807	NA	bz dz ʒ	Voiced obs with no voiceless eq.
-Kabyle	kaby1243	NA	b ɣʷ	Has spirantizing plosives; Voiced obs with no voiceless eq.
-Ngiemboon	ngie1241	NA	b d ɡ	Has spirantizing plosives; Has both sonorous and voiceless allophone
-Nganikurungkurr	nang1259	Daly River Area, Northern Territory	ɡ	Has spirantizing plosives
-KLAMATH	klam1254	NA	d ɡ ɢ	Voiced obs with no voiceless eq.
-Ngad''a; Ngadha'	ngad1261	NA	d̠ʒ	Voiced obs with no voiceless eq.
-Sukuma	suku1261	NA	d ɡ ɡ	Has spirantizing plosives; Voiced obs with no voiceless eq.
-Lunda	lund1266	NA	d	Has spirantizing plosives
-Baba	baba1264	NA	d̠ʒ	Voiced obs with no voiceless eq.
-Tulishi	tuli1249	Kamda	ɟː	Voiced obs with no voiceless eq.
-Telefol	tele1256	NA	b	Has spirantizing plosives
-Eastern Mari	east2328	NA	ð̪̺	Voiced obs with no voiceless eq.
-Nishgha	nisg1240	NA	d̪ ɡ ɡʲ ɡʷ ɢ ɢ	Has both sonorous and voiceless allophone; Voiced obs with no voiceless eq.
-Tamazight Berber	cent2194	NA	ɣˀ	Voiced obs with no voiceless eq.
-Saanich	saan1246	NA	k̰ʷ q̰ʷ ts̰ t̠ʃ̰	Voiced obs with no voiceless eq.
-Tapiete	tapi1253	NA	d̠ʒ	Has spirantizing plosives
-Ejagham	ejag1239	NA	b d ɡ	Has spirantizing plosives
-Dagbani	dagb1246	NA	ɡ	Has spirantizing plosives
-Kolyma Yukaghir	sout2750	NA	ʁ	Voiced obs with no voiceless eq.
-Yay	bouy1240	NA	ɡ	Has spirantizing plosives
-Mayogo	mayo1261	NA	ɦ	Voiced obs with no voiceless eq.
-Emberá-Catío	embe1260		d d̠ʒ	Voiced obs with no voiceless eq.
-Babungo	veng1238	Babungo (Grassfields Bantu, Ring)	d̠ʒ	Voiced obs with no voiceless eq.
-Dutch	dutc1256	Belgian Standard	ɦ	Voiced obs with no voiceless eq.
-Abkhaz	abkh1244	Abkhaz (Abzhywa)	d dz dʷ d̠ʒ d̠ʓʷ ɡ ɡʲ ɡʷ	Voiced obs with no voiceless eq.
-Norwegian	norw1259	NA	d̪ ɖ ɡ	Voiced obs with no voiceless eq.
-Sedang	seda1262	NA	ˀd	Voiced obs with no voiceless eq.
-Nuer	nuer1246	NA	ɦ	Voiced obs with no voiceless eq.
-Tamasheq	tama1365	NA	d̠ʒ	Voiced obs with no voiceless eq.
-Avikam	avik1243	NA	ɡ ɣ	Voiced obs with no voiceless eq.
-Emmi	amii1238	NA	ʐ	Voiced obs with no voiceless eq.
-TUNICA	tuni1252	NA	d ɡ	Voiced obs with no voiceless eq.
-Ngambai	ngam1268	NA	d̠ʒ	Voiced obs with no voiceless eq.
-Lak	lakk1252	NA	d ɡ ɢ ɢʷ	Voiced obs with no voiceless eq.
-Nubi	nubi1253	NA	ɡ	Has both sonorous and voiceless allophone
-Xhosa	xhos1239	NA	ɣ̤ ɮ̤	Voiced obs with no voiceless eq.
-Tangale	nucl1696	NA	d̠ʒ	Voiced obs with no voiceless eq.
-Lango	lang1324	NA	d	Voiced obs with no voiceless eq.
-Moru	moru1253	NA	b	Has spirantizing plosives
+Kashimiri	kash1277	NA	ɦ	Voiced obs with no voiceless eq.
+Punjabi	panj1256	NA	ɦ	Voiced obs with no voiceless eq.
+Hindi-Urdu	hind1269	NA	ɦ ʒ	Voiced obs with no voiceless eq.
+Sinhalese	sinh1246	NA	ɦ	Voiced obs with no voiceless eq.
+Ostyak	khan1273	NA	ɣ	Voiced obs with no voiceless eq.
 Yukaghir	nort2745	NA	ʁ	Voiced obs with no voiceless eq.
-Laz	lazz1240	Laz (Pazar)	d̪ ɡ	Voiced obs with no voiceless eq.
-Lɔgɔmagooi	loma1260	NA	d̠ʒ	Voiced obs with no voiceless eq.
-Sundanese	sund1252	NA	d	Voiced obs with no voiceless eq.
-MBUM	mbum1254	NA	ʒ	Voiced obs with no voiceless eq.
-Irish	iris1253	NA	d̠z̠ʲ d̪ˠ ɟʝ ɡ	Voiced obs with no voiceless eq.
-DAFLA	nyis1236	NA	ɦ	Voiced obs with no voiceless eq.
-WICHITA	wich1260	NA	ɦ	Voiced obs with no voiceless eq.
-Lake Miwok; Miwok (Lake)	lake1258	NA	d	Voiced obs with no voiceless eq.
-Washo	wash1253	NA	dz t̰s̰	Voiced obs with no voiceless eq.
-Savara	sora1254	NA	d̪ d̪	Has both sonorous and voiceless allophone; Has spirantizing plosives
-Tatana''; Tatanaq; Tatana'	tata1257	NA	d̠ʒ	Voiced obs with no voiceless eq.
-Tigemaxo Bozo	tiey1235	NA	d ɡ	Voiced obs with no voiceless eq.
-Yorouba	yoru1245	Yorouba (Benin)	d̠ʒ	Voiced obs with no voiceless eq.
-Ngombale	ngom1271	NA	ɡʷ	Voiced obs with no voiceless eq.
-AKAN	akan1250	NA	d ɡ	Voiced obs with no voiceless eq.
-Kela	kela1255	Apoze	dz	Voiced obs with no voiceless eq.
-Tamil	tami1289	NA	ʐ	Voiced obs with no voiceless eq.
-SUI	suii1243	NA	d̪̰|d̰ ʁ	Voiced obs with no voiceless eq.
+Chukchi	chuk1273	NA	ʐ͇	Voiced obs with no voiceless eq.
+AMELE	amel1241	NA	ʝ	Voiced obs with no voiceless eq.
+ALEUT	aleu1260	NA	ð	Voiced obs with no voiceless eq.
+APINAYE	apin1244	NA	ʒ	Voiced obs with no voiceless eq.
+ABIPON	abip1241	NA	ʁ	Voiced obs with no voiceless eq.
 BASHKIR	bash1264	NA	ʁ	Voiced obs with no voiceless eq.
-Frisian	nort2626	Sölring North	ɡ	Has spirantizing plosives
+BAI	cent2004	NA	z̪	Voiced obs with no voiceless eq.
+BURUSHASKI	buru1296	NA	ʐ͇	Voiced obs with no voiceless eq.
+HIGHLAND CHINANTEC	quio1240	NA	z̪͇|z͇	Voiced obs with no voiceless eq.
+CHUKCHI	chuk1273	NA	ʐ͇	Voiced obs with no voiceless eq.
+COFAN	cofa1242	NA	ʑ	Voiced obs with no voiceless eq.
+DAFLA	nyis1236	NA	ɦ	Voiced obs with no voiceless eq.
+DIEGUENO	kumi1248	NA	ɮ̪	Voiced obs with no voiceless eq.
+FIJIAN	fiji1243	NA	ð	Voiced obs with no voiceless eq.
+IATE	fuln1247	NA	ɦ	Voiced obs with no voiceless eq.
+NANAI	nana1257	NA	ʝ	Voiced obs with no voiceless eq.
+GUARANI	para1311	NA	ð	Voiced obs with no voiceless eq.
+HINDI-URDU	hind1269	NA	ɦ	Voiced obs with no voiceless eq.
+HUAVE	sanm1287	NA	z̪͇|z͇	Voiced obs with no voiceless eq.
+ARMENIAN	nucl1235	NA	ʐ͇	Voiced obs with no voiceless eq.
+IRARUTU	irar1238	NA	ʝ	Voiced obs with no voiceless eq.
+ISOKO	isok1239	NA	ɣʷ	Voiced obs with no voiceless eq.
+ITELMEN	itel1242	NA	ʝ	Voiced obs with no voiceless eq.
+INUIT	kala1399	NA	ʁ ʝ	Voiced obs with no voiceless eq.
+KASHMIRI	kash1277	NA	ɦ	Voiced obs with no voiceless eq.
+KABARDIAN	kaba1278	NA	ɦ	Voiced obs with no voiceless eq.
+KET	kett1243	NA	ʝ	Voiced obs with no voiceless eq.
+KHARIA	khar1287	NA	ɦ	Voiced obs with no voiceless eq.
+KANAKURU	dera1248	NA	ɮ	Voiced obs with no voiceless eq.
 KORYAK	kory1246	NA	ʝ	Voiced obs with no voiceless eq.
-Karbi (Mikir)	karb1241	NA	ɦ	Voiced obs with no voiceless eq.
-Tagalog	taga1270	NA	ɡ	Voiced obs with no voiceless eq.
-Olkol	ulku1238	NA	ð ɣ	Voiced obs with no voiceless eq.
-LUNGCHOW	nung1283	NA	d̪̰|d̰	Voiced obs with no voiceless eq.
-Sa'ban	saba1265	NA	b d̠͈ʒ	Has spirantizing plosives; Voiced obs with no voiceless eq.
-Mongolian	mong1331	Mongolian (Khalkha)	d̠ʒ d̪z̪ ɡ ɡʲ ɢ ɮ ɮʲ	Voiced obs with no voiceless eq.
-Kui	kuii1252	NA	ɟʝ	Voiced obs with no voiceless eq.
-PAPAGO	toho1245	NA	ɖ	Voiced obs with no voiceless eq.
-Egyptian Arabic	egyp1253	NA	d̠ʒ ðˤ	Voiced obs with no voiceless eq.
-Yadhaykenu	yadh1237	NA	ð	Voiced obs with no voiceless eq.
+KAREN	sgaw1245	NA	z͇ ɦ	Voiced obs with no voiceless eq.
+!XU	juho1239	NA	ɦ	Voiced obs with no voiceless eq.
+MAZATEC	chiq1250	NA	ð	Voiced obs with no voiceless eq.
+MBUM	mbum1254	NA	ʒ	Voiced obs with no voiceless eq.
+MOGHOL	mogh1245	NA	ʝ	Voiced obs with no voiceless eq.
+MARI	east2328	NA	ð	Voiced obs with no voiceless eq.
+MIXTEC	sanm1295	NA	ð	Voiced obs with no voiceless eq.
+MONGUOR	tuuu1240	NA	ʝ	Voiced obs with no voiceless eq.
+MORO	moro1285	NA	ð	Voiced obs with no voiceless eq.
+NEWARI	newa1246	NA	ɦ	Voiced obs with no voiceless eq.
+NGANASAN	ngan1291	NA	ð	Voiced obs with no voiceless eq.
+PARAUK	para1301	NA	ʒ̤	Voiced obs with no voiceless eq.
+PHLONG	pwon1235	NA	ʝ	Voiced obs with no voiceless eq.
+QUECHUA	sout2991	NA	ð	Voiced obs with no voiceless eq.
+SINHALESE	sinh1246	NA	ɦ	Voiced obs with no voiceless eq.
+SUI	suii1243	NA	ʁ	Voiced obs with no voiceless eq.
+ATAYAL	atay1247	NA	ʒ	Voiced obs with no voiceless eq.
+TELUGU	telu1262	NA	ɦ	Voiced obs with no voiceless eq.
+TIGAK	tiga1245	NA	ɮ	Voiced obs with no voiceless eq.
+TAMASHEQ	taha1241	NA	z̪ˤ	Voiced obs with no voiceless eq.
+ASMAT	tamn1235	NA	ʝ	Voiced obs with no voiceless eq.
+VANIMO	vani1248	NA	ɦ	Voiced obs with no voiceless eq.
+WICHITA	wich1260	NA	ɦ	Voiced obs with no voiceless eq.
+KAWAIISU	kawa1283	NA	ɣʷ	Voiced obs with no voiceless eq.
+YUKAGHIR	nort2745	NA	ʁ	Voiced obs with no voiceless eq.
+NENETS	nene1249	NA	ð ðʲ	Voiced obs with no voiceless eq.
+Kom	komc1235	NA	ɣʲ	Voiced obs with no voiceless eq.
+Minyanka	mama1271	NA	ʕ	Voiced obs with no voiceless eq.
+Murle	murl1244	NA	z	Voiced obs with no voiceless eq.
+Nsoʼ	lamn1239	NA	ɣv	Voiced obs with no voiceless eq.
+Chechen	chec1245	NA	z ʒ	Voiced obs with no voiceless eq.
+Coeur d''Alene'	coeu1236	NA	ʕ ʕʷ	Voiced obs with no voiceless eq.
+Korafe	kora1295	NA	ɣ	Voiced obs with no voiceless eq.
+Furu	furu1242	NA	ʒ	Voiced obs with no voiceless eq.
+Guajajara	guaj1255	NA	z	Voiced obs with no voiceless eq.
+Huichol	huic1243	NA	ʐ	Voiced obs with no voiceless eq.
+Kabyle	kaby1243	NA	ɣʷ	Voiced obs with no voiceless eq.
+Kensei Nsei	kens1251	NA	ʒ ʒʷ	Voiced obs with no voiceless eq.
+Kharia	khar1287	NA	ɦ	Voiced obs with no voiceless eq.
+Ladakhi	lada1244	NA	ɮ	Voiced obs with no voiceless eq.
+Mwotlap	motl1237	NA	ɣ	Voiced obs with no voiceless eq.
+Yuma	quec1382	NA	ð	Voiced obs with no voiceless eq.
+Nuer	nuer1246	NA	ɦ	Voiced obs with no voiceless eq.
+Marwari	marw1260	NA	ʝ	Voiced obs with no voiceless eq.
+Sedik	taro1264	NA	ɮ	Voiced obs with no voiceless eq.
+Spokan	spok1245	NA	ʕ ʕʷ ʕ̰ ʕ̰ʷ	Voiced obs with no voiceless eq.
+Sesotho	sout2807	NA	ʒ	Voiced obs with no voiceless eq.
+Zapotec	loxi1235	Loxicha	z ɣʷ	Voiced obs with no voiceless eq.
+Yapese	yape1248	NA	θ̰	Voiced obs with no voiceless eq.
+Yukaghir (Kolyma)	sout2750	Southern	ʁ	Voiced obs with no voiceless eq.
+Kalabari; Kirike; Kalabari-Ijo	kala1381	Kalabari-Ijo	ɦ	Voiced obs with no voiceless eq.
+Dutch	dutc1256	Belgian Standard	ɦ	Voiced obs with no voiceless eq.
+San Bartolomé Zoogocho Zapotec	zoog1238	zxon	ʁ	Voiced obs with no voiceless eq.
+Pilaga; Pilagá	pila1245	NA	ʕ	Voiced obs with no voiceless eq.
+Lebanese Arabic	liby1240	NA	ðˠ	Voiced obs with no voiceless eq.
+Kadiweu	kadi1248	NA	ʁ	Voiced obs with no voiceless eq.
+Mocovi	moco1246	NA	ʁ	Voiced obs with no voiceless eq.
+Czech	czec1258	Prague	ɦ	Voiced obs with no voiceless eq.
+Swedish	swed1254	Stockholm	ʝ	Voiced obs with no voiceless eq.
+Tukang Besi	tuka1248	Wanci, Kaledupa	β	Has both sonorous and voiceless allophone
+Bakoko	bako1249	NA	ɦ	Voiced obs with no voiceless eq.
+Befang	befa1241	NA	ʒ	Voiced obs with no voiceless eq.
+Bubia	bubi1249	NA	ʒ	Voiced obs with no voiceless eq.
+Totela	tote1238	NA	ɣʷ	Voiced obs with no voiceless eq.
+Jiarong	jiar1240	Chabao; Japhug	z	Voiced obs with no voiceless eq.
+Muna	muna1247	NA	ʁ	Voiced obs with no voiceless eq.
+Fulfulde (Cameroon)	adam1253	CAM	ʒ	Voiced obs with no voiceless eq.
+Ikalanga	ikal1242	NA	ɦ	Voiced obs with no voiceless eq.
+Burun	buru1301	Kurmuk	z	Voiced obs with no voiceless eq.
+Copi	copi1238	NA	ɦ̤	Voiced obs with no voiceless eq.
+Xhosa	xhos1239	NA	ɣ̤ ɮ̤	Voiced obs with no voiceless eq.
+Czech	czec1258	Czech (Bohemian)	ɦ	Voiced obs with no voiceless eq.
+Chechen	chec1245	Chechen (Pẋarçxoy Äqqiy)	ʁ ʕ	Voiced obs with no voiceless eq.
+Tundra Yukaghir	nort2745	NA	ʁ	Voiced obs with no voiceless eq.
+Lezgian	lezg1247	Lezgian (İsmayıllı)	ʕ	Voiced obs with no voiceless eq.
+Tsez	dido1241	Tsez (Asax)	ʁˤ	Voiced obs with no voiceless eq.
+Rusyn	rusy1239	Rusyn (Lemko)	ɦ	Voiced obs with no voiceless eq.
+Baima	baim1244	NA	ɦ	Voiced obs with no voiceless eq.
+Kumyk	kumy1244	NA	ʁ ʕ	Voiced obs with no voiceless eq.
+Chukchi	chuk1273	NA	ɣ	Voiced obs with no voiceless eq.
+Northern Altai	nort2686	Northern Altai (Kumandy)	ɣ	Voiced obs with no voiceless eq.
+Atayal	atay1247	NA	ʒ	Voiced obs with no voiceless eq.
+Ksingmul	puoc1238	NA	zʲ	Voiced obs with no voiceless eq.
+Ket	kett1243	Ket (Kellog)	ɮ̺	Voiced obs with no voiceless eq.
+Kabardian	kaba1278	Kabardian (Ulyap)	zʷ	Voiced obs with no voiceless eq.
+Dutch	dutc1256	NA	ɦ	Voiced obs with no voiceless eq.
+Eastern Mari	east2328	NA	ð̪̺	Voiced obs with no voiceless eq.
+Eastern Khanty	vach1239	Eastern Khanty (Vakh)	ʁ	Voiced obs with no voiceless eq.
+Sakha	yaku1245	Sakha (Standard)	ʁ	Voiced obs with no voiceless eq.
+Slovak	slov1269	Slovak (Standard)	ɦ	Voiced obs with no voiceless eq.
+Israeli Hebrew	hebr1245	NA	ʁ	Voiced obs with no voiceless eq.
+Gujarati	guja1252	Gujarati (Standard)	ɦ	Voiced obs with no voiceless eq.
+Dhimal	dhim1246	NA	ɦ	Voiced obs with no voiceless eq.
+Mongolian	mong1331	Mongolian (Khalkha)	ɮ ɮʲ	Voiced obs with no voiceless eq.
+Urdu	urdu1245	NA	ɦ	Voiced obs with no voiceless eq.
+Nyinpa Cone	chen1255	NA	ʁ	Voiced obs with no voiceless eq.
+Dongxiang	dong1285	NA	ʁ	Voiced obs with no voiceless eq.
+Panjabi	panj1256	Panjabi (Eastern)	ɦ	Voiced obs with no voiceless eq.
+Czech	czec1258	Czech (Moravian)	ɦ	Voiced obs with no voiceless eq.
+Nuosu	sich1238	Nuosu (Black Yi)	ʒ̩	Voiced obs with no voiceless eq.
+Northern Kurdish	nort2641	Northern Kurdish (Kurmanji)	ʢ	Voiced obs with no voiceless eq.
+Pite Saami	pite1240	NA	ðː	Voiced obs with no voiceless eq.
+Bashkir	bash1264	Bashkir (Standard)	ʁ	Voiced obs with no voiceless eq.
+Ukrainian	ukra1253	Ukrainian (Standard)	z̪ʲ ɦ	Voiced obs with no voiceless eq.
+Idu	idom1241	NA	zʲ	Voiced obs with no voiceless eq.
+Meadow Mari	east2328	Meadow Mari (Joškar-Ola)	ð̪̺	Voiced obs with no voiceless eq.
+Leggbo	legb1242	NA	z	Voiced obs with no voiceless eq.
+Logba	logb1245	NA	ɦ	Voiced obs with no voiceless eq.
+Awngi	awng1244	NA	ʁ ʁʷ	Voiced obs with no voiceless eq.
+Ronga	rong1268	NA	ɦ ʐʷ	Voiced obs with no voiceless eq.
+Comorian, Ndzwani	ndzw1235	NA	ʕ	Voiced obs with no voiceless eq.
+Reunionnais	reun1238	NA	ʁ	Voiced obs with no voiceless eq.
+Tofa	kara1462	NA	ɣ	Voiced obs with no voiceless eq.
+Upper Sorbian	uppe1395	NA	z̪ʲ	Voiced obs with no voiceless eq.
+Hindi	hind1269	NA	ɦ	Voiced obs with no voiceless eq.
+Saotomense	saot1239	NA	z ʒ	Voiced obs with no voiceless eq.
+Krio	krio1253	NA	ʁ	Voiced obs with no voiceless eq.
+Swedish	swed1254	Swedish (Central)	ʝ	Voiced obs with no voiceless eq.
+Burushaski	buru1296	Burushaski (Werchikwar)	ʁ	Voiced obs with no voiceless eq.
+Vame	vame1236	NA	ɣʷ	Voiced obs with no voiceless eq.
+Chechen	chec1245	Chechen (Ҫ̇äberloy)	ʁ	Voiced obs with no voiceless eq.
 Burushaski	buru1296	Burushaski (Nagar)	ʐʲ	Voiced obs with no voiceless eq.
+Tuvan	tuvi1240	Tuvan (Standard)	ɣ	Voiced obs with no voiceless eq.
+Tamazight Berber	cent2194	NA	ɣˀ	Voiced obs with no voiceless eq.
+Siwi	siwi1239	NA	ʕː	Voiced obs with no voiceless eq.
+Fang	fang1248	NA	ʒ	Voiced obs with no voiceless eq.
+Mokpwe	mokp1239	NA	ʒ	Voiced obs with no voiceless eq.
+Kalmyk	kalm1243	Kalmyk (Standard)	z	Voiced obs with no voiceless eq.
+Scottish Gaelic	scot1245	Scottish Gaelic (Lewis)	ðʲ ɣʲ	Voiced obs with no voiceless eq.
+Sui	suii1243	NA	ʁ	Voiced obs with no voiceless eq.
+Najdi Arabic	najd1235	NA	ðˤ	Voiced obs with no voiceless eq.
+Tamil	tami1289	NA	ʐ	Voiced obs with no voiceless eq.
+Ouldeme	wuzl1236	NA	ɣʷ	Voiced obs with no voiceless eq.
+Nchufie	bafa1249	NA	ɣ	Voiced obs with no voiceless eq.
+Belait	bela1260	Metting	ʁ	Voiced obs with no voiceless eq.
+Assamese	assa1263	NA	ɦ	Voiced obs with no voiceless eq.
+Balti	balt1258	NA	ɮ	Voiced obs with no voiceless eq.
+Karbi (Mikir)	karb1241	NA	ɦ	Voiced obs with no voiceless eq.
+Kashmiri	kash1277	NA	ɦ	Voiced obs with no voiceless eq.
+Kharia	khar1287	NA	ɦ	Voiced obs with no voiceless eq.
+Kod̩agu	koda1255	NA	ð	Voiced obs with no voiceless eq.
+Lotha	loth1237	NA	ɦ	Voiced obs with no voiceless eq.
+Thaadou	thad1238	NA	ɦ	Voiced obs with no voiceless eq.
+Urali	ural1274	NA	ð	Voiced obs with no voiceless eq.
+Urdu	urdu1245	NA	z	Voiced obs with no voiceless eq.
+Waurá	waur1244		ʒ	Voiced obs with no voiceless eq.
+Abipon	abip1241		ʁ	Voiced obs with no voiceless eq.
+Mocoví	moco1246		ʁ	Voiced obs with no voiceless eq.
+Pilagá	pila1245		ʕ	Voiced obs with no voiceless eq.
+Toba	toba1269	Takshek dialect	ʁ	Voiced obs with no voiceless eq.
+Krenak	kren1239		ʒ	Voiced obs with no voiceless eq.
+Umotína	umot1240		z	Voiced obs with no voiceless eq.
+Xavánte	xava1240		ɣ	Voiced obs with no voiceless eq.
+Avá-Canoeiro	avac1239		ʁ	Voiced obs with no voiceless eq.
+Awetí	awet1244		ʐ	Voiced obs with no voiceless eq.
+Chiriguano	east2555	Chané dialect	ʝ	Voiced obs with no voiceless eq.
+Chiriguano	east2555	Izoceño dialect	ʝ	Voiced obs with no voiceless eq.
+Guajajára	guaj1255		z	Voiced obs with no voiceless eq.
+Paraguayan Guaraní	para1311		ɣʷ	Voiced obs with no voiceless eq.
+Atampaya	atam1239	NA	ð	Voiced obs with no voiceless eq.
+Yadhaykenu	yadh1237	NA	ð	Voiced obs with no voiceless eq.
+Yinwum	yinw1236	NA	ð ɣ	Voiced obs with no voiceless eq.
+Olkol	ulku1238	NA	ð ɣ	Voiced obs with no voiceless eq.
+Mbara	mbar1254	NA	ð ʑ	Voiced obs with no voiceless eq.
+Oykangand	oyka1239	NA	ð ɣ	Voiced obs with no voiceless eq.
+Warluwarra	warl1256	NA	ʐ ʑ	Voiced obs with no voiceless eq.
 Angkamuthi	angg1238	NA	ð	Voiced obs with no voiceless eq.
 Ngkoth	ngko1236	NA	ð	Voiced obs with no voiceless eq.
 Mpalitjanh	mpal1238	NA	ð ɣ	Voiced obs with no voiceless eq.
-FARSI	west2369	NA	d̪ ɡ ɢ	Voiced obs with no voiceless eq.
-EYAK	eyak1241	NA	d̠ʒ d̪z̪|dz d̪|d d̪ɮ̪|dɮ ɡ ɡʷ ɢ	Voiced obs with no voiceless eq.
-Yinwum	yinw1236	NA	ð ɣ	Voiced obs with no voiceless eq.
+Mbiywom	mbiy1238	NA	ð ɣ	Voiced obs with no voiceless eq.
 Luthigh	luth1234	NA	ð	Voiced obs with no voiceless eq.
-Ronga	rong1268	NA	ɦ ʐʷ	Voiced obs with no voiceless eq.
-Idu	idom1241	NA	d̠ʒʷ zʲ ɡʷʲ	Voiced obs with no voiceless eq.
+Linngithigh	leni1238	NA	ð ɣ	Voiced obs with no voiceless eq.
+Thaynakwithi	tyan1235	NA	ð	Voiced obs with no voiceless eq.
+Ndra'ngith	ndra1239	NA	ð	Voiced obs with no voiceless eq.
+Aritinngithigh	arit1239	NA	ð	Voiced obs with no voiceless eq.
 Alngith	alng1239	NA	ð ɣ	Voiced obs with no voiceless eq.
-Eastern Khanty	vach1239	Eastern Khanty (Vakh)	ʁ	Voiced obs with no voiceless eq.
-YAREBA	yare1248	NA	dz	Voiced obs with no voiceless eq.
 Walangama	wala1263	NA	ð	Voiced obs with no voiceless eq.
-Laz	lazz1240	Laz (Borçka)	d̪ ɡ	Voiced obs with no voiceless eq.
-Dimili	diml1238	NA	b d̠ʒ	Has spirantizing plosives
-Awtuw	awtu1239	NA	d	Voiced obs with no voiceless eq.
+Kurtjar	gurd1238	NA	ð	Voiced obs with no voiceless eq.
 Rimanggudinhma	mbar1253	NA	ð ɣ	Voiced obs with no voiceless eq.
 Anguthimri	angu1242	NA	ð ʑ	Voiced obs with no voiceless eq.
-ARMENIAN	nucl1235	NA	ʐ͇	Voiced obs with no voiceless eq.
 Ogh Unyjan	kawa1290	NA	ð ɣ	Voiced obs with no voiceless eq.
-Argobba	argo1244	NA	b d ɡ ɡ	Has spirantizing plosives; Voiced obs with no voiceless eq.
+Ogh Awarrangg	kawa1290	NA	ð ɣ	Voiced obs with no voiceless eq.
+Awu Alaya	thay1248	NA	ð ɣ	Voiced obs with no voiceless eq.
 Takalak	ikar1243	NA	ð ʑ	Voiced obs with no voiceless eq.
 Ikarranggal	ikar1243	NA	ð	Voiced obs with no voiceless eq.
+Emmi	amii1238	NA	ʐ	Voiced obs with no voiceless eq.
 Marti Ke	mart1254	NA	ð ʐ ʑ	Voiced obs with no voiceless eq.
 Marringarr	mari1419	NA	ð ʐ ʑ	Voiced obs with no voiceless eq.
-Aari	aari1239	NA	ɦ	Voiced obs with no voiceless eq.
-Kuteb	kute1248	NA	d̠ʒ	Has spirantizing plosives
-Jibbali	sheh1240	Jibbali (Central)	d ɡʲ	Voiced obs with no voiceless eq.
-Soghpo Tibetan	kham1282	NA	ʱdz ʱdʑ ʱz ʱʐ ʷd ʷz ʷɟ ʷʐ ʷʑ	Voiced obs with no voiceless eq.
-Burushaski	buru1296	Burushaski (Hunza)	ʐʲ	Voiced obs with no voiceless eq.
-Petats	peta1245	Petats central	b ɡ	Has spirantizing plosives
-Kanuri	cent2050	NA	b ɡ	Has spirantizing plosives
-Najdi Arabic	najd1235	NA	ðˤ	Voiced obs with no voiceless eq.
-Medumba	medu1238	NA	ɡ	Has spirantizing plosives
-Turkish	nucl1301	Turkish (Standard)	d̠ʒ d̻ ɡ	Voiced obs with no voiceless eq.
-Looma	loma1260	NA	d ɡ ɣ	Voiced obs with no voiceless eq.
-Sui	suii1243	NA	ʁ	Voiced obs with no voiceless eq.
-Basque	basq1248	Goizueta Basque	b b d̪ ɡ	Has both sonorous and voiceless allophone; Has spirantizing plosives
-Yapese	yape1248	NA	θ̰	Voiced obs with no voiceless eq.
-Tundra Nenets	nene1249	Tundra Nenets (Far Eastern)	dʲ	Voiced obs with no voiceless eq.
-Northern Kurdish	nort2641	Northern Kurdish (Kurmanji)	d d̠ʒ ɡ ʢ	Voiced obs with no voiceless eq.
-Bukharan Tajik	taji1245	Bukharan	ʁ	Voiced obs with no voiceless eq.
-Nasioi	naas1242	NA	b	Has spirantizing plosives
-French	stan1290	NA	ʁ	Voiced obs with no voiceless eq.
-Abkhaz	abkh1244	Abkhaz (Bzyb)	d dz dʷ d̠ʒ d̠ʓʷ ɡ ɡʲ ɡʷ	Voiced obs with no voiceless eq.
-Kalmyk	kalm1243	Kalmyk (Standard)	z	Voiced obs with no voiceless eq.
-Turkmen	turk1304	Turkmen (Teke)	d̪	Voiced obs with no voiceless eq.
-Apatani	apat1240	NA	ɡʲ	Voiced obs with no voiceless eq.
-Kod̩agu	koda1255	NA	ð	Voiced obs with no voiceless eq.
-English (New Zealand)	stan1293	Pākehā	d ɡ	Voiced obs with no voiceless eq.
-Kadiweu	kadi1248	NA	d̠ʒ d̪ d̪ː ɡː ʁ	Has both sonorous and voiceless allophone; Has spirantizing plosives; Voiced obs with no voiceless eq.
-Tosk Albanian	tosk1239	Tosk Albanian (Korçë)	ð͇ˠ	Voiced obs with no voiceless eq.
-Pinyin	piny1238	NA	b ɡ	Has spirantizing plosives
-BERTA	bert1248	NA	d̠ʒ d̪|d ɡ	Voiced obs with no voiceless eq.
-Kabardian	kaba1278	Kabardian (Ulyap)	zʷ	Voiced obs with no voiceless eq.
-Yemba	yemb1246	NA	ɡ	Has spirantizing plosives
-Waneci	wane1241	NA	dz d̪ ɖ ɡ	Voiced obs with no voiceless eq.
-Baoan	bona1250	Baoan (Ñantoq)	ʒ	Voiced obs with no voiceless eq.
-Catalan	stan1289	Barcelona	b d̪ ɡ	Has spirantizing plosives
-Siwi	siwi1239	NA	ʕː	Voiced obs with no voiceless eq.
-Zulu	zulu1248	NA	d̠ʒ	Voiced obs with no voiceless eq.
-ARCHI	arch1244	NA	d̪|d d̪ʷ|dʷ ɡ ɡʷ	Voiced obs with no voiceless eq.
-Kwakiutl	kwak1269	NA	d dz ɡʷ ɢ ɢʷ	Voiced obs with no voiceless eq.
-Dhimal	dhim1246	NA	d̤ʑ̤ ɦ	Voiced obs with no voiceless eq.
-Hill Mari	west2392	Hill Mari (Jaransk)	ð̪̺	Voiced obs with no voiceless eq.
-Karata	kara1474	NA	d d̠ʒ ɡ	Voiced obs with no voiceless eq.
-Atampaya	atam1239	NA	ð	Voiced obs with no voiceless eq.
-Chechen	chec1245	Chechen (Ҫ̇äberloy)	dz d̠ʒ d̪ ɡ ʁ	Voiced obs with no voiceless eq.
-Vlax Romani	vlax1238	Vlax Romani (Mitrovica)	d̠ʒ	Voiced obs with no voiceless eq.
-Banjara	lamb1269	NA	d̪	Voiced obs with no voiceless eq.
-APINAYE	apin1244	NA	ʒ	Voiced obs with no voiceless eq.
-Khalkha	halh1238	NA	d dz d̠ʒ ɡ ɡ	Has spirantizing plosives; Voiced obs with no voiceless eq.
-Yil	yill1241	NA	ɡ	Has spirantizing plosives
-Skolt Saami	skol1241	Skolt Saami (Suõʹnnʼjel)	ðʲ	Voiced obs with no voiceless eq.
-TELUGU	telu1262	NA	d̪̤|d̤ ɦ	Voiced obs with no voiceless eq.
-Malagasy	plat1254	NA	dz	Has spirantizing plosives
-Seneca	sene1264	NA	dz	Voiced obs with no voiceless eq.
-Burushaski	buru1296	Burushaski (Werchikwar)	ʁ	Voiced obs with no voiceless eq.
-Swedish	swed1254	Swedish (Central)	d̪ ɡ ʝ	Voiced obs with no voiceless eq.
-Scottish Gaelic	scot1245	Scottish Gaelic (Lewis)	ðʲ ɣʲ	Voiced obs with no voiceless eq.
-Chechen	chec1245	Chechen (Ploskost)	dz d̠ʒ d̪ ɡ ʁ	Voiced obs with no voiceless eq.
-Campidanese Sardinian	camp1261	Campidanese Sardinian (Sestu)	ɖː ʁ	Voiced obs with no voiceless eq.
-Tamang	east2347	Tamang (Dhankuta)	d̤	Voiced obs with no voiceless eq.
-Tundra Yukaghir	nort2745	NA	ʁ	Voiced obs with no voiceless eq.
-MONGUOR	tuuu1240	NA	d̠ʒ d̪z̪|dz ʝ	Voiced obs with no voiceless eq.
-Jiarong	jiar1240	Chabao; Japhug	z	Voiced obs with no voiceless eq.
-Remo	bond1245	NA	d̪ ɖ ɡ	Voiced obs with no voiceless eq.
-Even	even1260	NA	ɡ	Has spirantizing plosives
-Tofa	kara1462	NA	ɣ	Voiced obs with no voiceless eq.
-Louyi	luya1241	NA	dz d̠ʒ	Voiced obs with no voiceless eq.
-Wazirwola	cent1973	Wazirwola (South Wazīrī)	dz d̪ ɖ ɡ	Voiced obs with no voiceless eq.
-Jili	liji1238	NA	d	Has spirantizing plosives
-Khalkhal	khal1271	NA	d d̠ʒ ɡ ɢʁ ɣ	Voiced obs with no voiceless eq.
-Finnish	finn1318	Finnish (Standard)	d̺	Voiced obs with no voiceless eq.
-Leggbo	legb1242	NA	dzː z	Voiced obs with no voiceless eq.
-Zayse	zays1236	NA	dz d̠ʒ d̪ ɡ	Voiced obs with no voiceless eq.
-Saxwe, Gbe	saxw1241	NA	ɖ ɦ ɦʷ	Voiced obs with no voiceless eq.
-Mende	mend1266	NA	d̠ʒ	Voiced obs with no voiceless eq.
-Meadow Mari	east2328	Meadow Mari (Volga)	ð̪̺	Voiced obs with no voiceless eq.
-Irish	iris1253	Irish (Corca Dhuibhne)	d̠ʒ d̪ʲ d̪ˠ ɟ ɡ	Voiced obs with no voiceless eq.
-Farsi	west2369	NA	d d̠ʒ ɡ ɢʁ	Voiced obs with no voiceless eq.
-Basque	basq1248	Basque (Ondarroa)	ɟ	Voiced obs with no voiceless eq.
-Aragonese	arag1245	Chistabino	d̪	Has spirantizing plosives
-Rusyn	rusy1239	Rusyn (Lemko)	ɦ	Voiced obs with no voiceless eq.
-Chechen	chec1245	Chechen (Şaroy)	dz d̠ʒ d̪ ɡ ʁ	Voiced obs with no voiceless eq.
-Czech	czec1258	Prague	ɦ	Voiced obs with no voiceless eq.
-Mehri	mehr1241	Mehri (Oman)	d ɡ	Voiced obs with no voiceless eq.
-Scots	scot1243	Scots (Northern)	d ɡ	Voiced obs with no voiceless eq.
-Ukrainian	ukra1253	Ukrainian (Standard)	d̪ʲ z̪ʲ ɦ	Voiced obs with no voiceless eq.
-Dutch	dutc1256	the dialect of Maastricht (south-eastern dialect group; Central Limburgian)	ɦ	Voiced obs with no voiceless eq.
-Kresh	gbay1288	NA	d̠ʒ	Voiced obs with no voiceless eq.
-Bilua	bilu1245	NA	d̠ʒ	Voiced obs with no voiceless eq.
-Central Sama	cent2092	Central Sama (Siasi)	b d dː d̠ʒ d̠ːʒ ɡ	Has spirantizing plosives; Voiced obs with no voiceless eq.
-Eastern Hill Balochi	east2304	NA	d d̠ʒ ɡ	Voiced obs with no voiceless eq.
-Pite Saami	pite1240	NA	ðː	Voiced obs with no voiceless eq.
-Defaka	defa1248	NA	d̠ʒ	Voiced obs with no voiceless eq.
-Mah Meri	besi1244	Mah Meri (as spoken in Kampong Orang Asli Bukit Bangkong, Sepang, Malaysie)	d̺	Voiced obs with no voiceless eq.
-Czech	czec1258	Czech (Moravian)	d̺ ɦ	Voiced obs with no voiceless eq.
-MORO	moro1285	NA	ð	Voiced obs with no voiceless eq.
-Panjabi	panj1256	Panjabi (Eastern)	ɦ	Voiced obs with no voiceless eq.
-Dongxiang	dong1285	NA	ʁ	Voiced obs with no voiceless eq.
-Nyinpa Cone	chen1255	NA	ʁ	Voiced obs with no voiceless eq.
-Frisian	west2354	Frisian (West)	d ɡ	Voiced obs with no voiceless eq.
-Avar	avar1256	Avar (Chadakolob)	d ɡ ɡʷ	Voiced obs with no voiceless eq.
-Urdu	urdu1245	NA	ɦ	Voiced obs with no voiceless eq.
-Yorouba	yoru1245	Yorouba (Nigeria)	d̠ʒ	Voiced obs with no voiceless eq.
-Andi	andi1255	NA	dː ɢʷ	Voiced obs with no voiceless eq.
-Kamassian	kama1351	NA	dʑ d̪ ɡ	Voiced obs with no voiceless eq.
-Gujarati	guja1252	Gujarati (Standard)	ɦ	Voiced obs with no voiceless eq.
-YULU	yulu1243	NA	d̪z̪	Voiced obs with no voiceless eq.
-Jamamadí	jama1261	Jamamadí	ɟ	Voiced obs with no voiceless eq.
-Bakoko	bako1249	NA	ɦ	Voiced obs with no voiceless eq.
-Comorian, Ndzwani	ndzw1235	NA	ʕ	Voiced obs with no voiceless eq.
-Kolami	nort2699	Kolami (Wardha)	dz	Voiced obs with no voiceless eq.
-KET	kett1243	NA	ʝ	Voiced obs with no voiceless eq.
-Kadiwéu	kadi1248		dː ɡː	Voiced obs with no voiceless eq.
-Norwegian	norw1258	Norwegian (Standard Østnorsk)	d ɡ	Voiced obs with no voiceless eq.
-Sindhi	sind1272	Sindhi (Vicholi)	d̻̤ʑ̻̤	Voiced obs with no voiceless eq.
-Georgian	nucl1302	NA	d̪ ɡ	Voiced obs with no voiceless eq.
-Mingrelian	ming1252	Mingrelian (Zugdidi-Samurzaqano)	d̪ ɡ	Voiced obs with no voiceless eq.
-German	stan1295	NA	d ɡ	Voiced obs with no voiceless eq.
-Laz	lazz1240	Laz (Arhavi)	d̪ ɡ	Voiced obs with no voiceless eq.
-Varli	varl1238	Varli (Dogri)	d̠̤ʒ̤	Voiced obs with no voiceless eq.
-German	stan1295	German (Standard)	d̺ ɡ	Voiced obs with no voiceless eq.
-Kanuri	cent2050	NA	b	Has spirantizing plosives
-CHEROKEE	cher1273	NA	d dz ɡ	Voiced obs with no voiceless eq.
-SEDANG	seda1262	NA	d̪̰|d̰	Voiced obs with no voiceless eq.
-Sedik	taro1264	NA	ɮ	Voiced obs with no voiceless eq.
-Chechen	chec1245	Chechen (Pẋarçxoy Äqqiy)	dz d̠ʒ d̪ ɡ ʁ ʕ	Voiced obs with no voiceless eq.
-Ket	kett1243	Ket (Kellog)	ɮ̺	Voiced obs with no voiceless eq.
-Garadjari	kara1476	NA	d dʲ ɡ	Voiced obs with no voiceless eq.
-Barein (Jalking)	bare1279	Jalking	ɟː	Voiced obs with no voiceless eq.
-HIGHLAND CHINANTEC	quio1240	NA	z̪͇|z͇	Voiced obs with no voiceless eq.
-Principense	prin1242	NA	ʒ	Voiced obs with no voiceless eq.
-Svan	svan1243	Svan (Upper Bal)	d̪ ɡ	Voiced obs with no voiceless eq.
-Bats	bats1242	NA	dz d̠ʒ d̪ ɡ	Voiced obs with no voiceless eq.
-Rawang	rawa1265	Rawang (Mutwang)	d d̠ʒ ɡ	Voiced obs with no voiceless eq.
-Atayal	atay1247	NA	ʒ	Voiced obs with no voiceless eq.
-Zway	zayy1238	NA	d̠ʒ	Voiced obs with no voiceless eq.
-Northern Altai	nort2686	Northern Altai (Kumandy)	ɣ	Voiced obs with no voiceless eq.
-Laz	lazz1240	Laz (Hopa)	d̪ ɡ	Voiced obs with no voiceless eq.
-Tausug	taus1251	Tausug (Jolo)	d	Voiced obs with no voiceless eq.
-Lotha	loth1237	NA	ɦ	Voiced obs with no voiceless eq.
-Chukchi	chuk1273	NA	ɣ	Voiced obs with no voiceless eq.
-Ksingmul	puoc1238	NA	zʲ	Voiced obs with no voiceless eq.
-Kunigami	kuni1268	Kunigami (Nakijin)	d̺ ɡ	Voiced obs with no voiceless eq.
-Kole	bako1250	NA	d̠ʒ	Voiced obs with no voiceless eq.
-Northwestern Pashto	nort2647	NA	d̠ʒ d̪ ɖ ɡ	Voiced obs with no voiceless eq.
-Gagauz	gaga1249	Gagauz (Standard)	dʲ ɡʲ	Voiced obs with no voiceless eq.
-Tsez	dido1241	Tsez (Asax)	ʁˤ	Voiced obs with no voiceless eq.
-Nchane	ncan1245	NA	d	Voiced obs with no voiceless eq.
-songhoy	koyr1240	NA	ɡᶣ	Voiced obs with no voiceless eq.
-Yousafzai Pashto	nort2646	Yousafzai Pashto (Peshāwar)	d̠ʒ d̪ ɖ ɡ	Voiced obs with no voiceless eq.
-Ndut-Falor	palo1243	Falor	ɗʒ	Voiced obs with no voiceless eq.
-Dhivehi	dhiv1236	Dhivehi (Malé)	d̪ ɖ ɡ	Voiced obs with no voiceless eq.
-Lezgian	lezg1247	Lezgian (İsmayıllı)	ʕ	Voiced obs with no voiceless eq.
-NENETS	nene1249	NA	ð ðʲ	Voiced obs with no voiceless eq.
-Solu Sherpa	sher1255	Solu Sherpa (Hile)	d	Voiced obs with no voiceless eq.
-ATAYAL	atay1247	NA	ʒ	Voiced obs with no voiceless eq.
-Spanish	stan1288	Spanish (Murcian)	ɟ	Voiced obs with no voiceless eq.
-Guajajara	guaj1255	NA	z	Voiced obs with no voiceless eq.
-Hindi	hind1269	NA	ɦ	Voiced obs with no voiceless eq.
-Czech	czec1258	Czech (Bohemian)	d̺ ɦ	Voiced obs with no voiceless eq.
-MOGHOL	mogh1245	NA	ʝ	Voiced obs with no voiceless eq.
-BANDJALANG	twee1234	NA	d d̠ʒ ɡ	Voiced obs with no voiceless eq.
-Dutch	dutc1256	the Belgian Limburg dialect of Hamont (belongs to the West Limburg dialects, subclassification: Dommellands)	ɦ	Voiced obs with no voiceless eq.
-Tod Tibetan	stod1241	NA	z	Voiced obs with no voiceless eq.
-Darkhat	dark1243	NA	ɡ ʝ	Voiced obs with no voiceless eq.
-Dolgan	dolg1241	NA	ɡ	Voiced obs with no voiceless eq.
-Bakhtiari	bakh1245	NA	d d̠ʒ ɡʲ ɢ	Voiced obs with no voiceless eq.
-Bulgarian	bulg1262	NA	d dʲ ɡ ɡʲ	Voiced obs with no voiceless eq.
-Kedayan	keda1250	NA	d	Voiced obs with no voiceless eq.
-Meadow Mari	east2328	Meadow Mari (Morki-Sernur)	ð̪̺	Voiced obs with no voiceless eq.
-Northern Saami	nort2671	Guovdageaidnu	ðː	Voiced obs with no voiceless eq.
-Opo	opuu1239	NA	d̠ʒ	Voiced obs with no voiceless eq.
-Dafla	nyis1236	NA	ɦ	Voiced obs with no voiceless eq.
-Xumi	shix1238	Lower Xumi	b dz d̠ʒ ɡ ʁ	Has spirantizing plosives; Voiced obs with no voiceless eq.
-Cocos Malay	coco1260	Spoken in Kampung Cocos in the Lahad Datu district of Sabah, Malaysia	d ʁ	Voiced obs with no voiceless eq.
-Laarim	nari1240	NA	ð ɖ	Voiced obs with no voiceless eq.
-Kumzari	kumz1235	Kumzari spoken in Khasab, Oman	ɦ	Voiced obs with no voiceless eq.
-Greek	mode1248	Standard Modern Greek (Athenian)	b d̪ ɡ	Has spirantizing plosives
-Tausug (Suluk)	taus1251	Jolo, Philippines	d	Voiced obs with no voiceless eq.
-Spanish	stan1288	Castilian Spanish	d̻ ɟʝ ɟʝ ɡ	Has spirantizing plosives; Voiced obs with no voiceless eq.
-Slovak	slov1269	Standard Slovak (Bratislava / Kos̆ice)	ɦ	Voiced obs with no voiceless eq.
-Portuguese (European)	port1283	Lisbon	ʁ	Voiced obs with no voiceless eq.
-Siwu	siwu1238	NA	ʕ	Voiced obs with no voiceless eq.
-Soso	susu1250	NA	d̠ʒ	Voiced obs with no voiceless eq.
-Abipon	abip1241		ʁ	Voiced obs with no voiceless eq.
-Pilaga; Pilagá	pila1245	NA	d ɡ ʕ	Has spirantizing plosives; Voiced obs with no voiceless eq.
-Nuosu	sich1238	Nuosu (Black Yi)	ʒ̩	Voiced obs with no voiceless eq.
-Mambila	came1252	Atta	d̠ʒ ɡ	Has spirantizing plosives
-Awiya	awng1244	NA	b	Has spirantizing plosives
-Luxembourgish	luxe1241	Standard central Luxembourgish	ʁ	Has both sonorous and voiceless allophone
-Ts'amakko	tsam1247	NA	d̠ʒː	Voiced obs with no voiceless eq.
-Arapesh	bumb1241	NA	dz d̪ ɡ	Voiced obs with no voiceless eq.
-Kpelle, North	guin1254	NA	dz	Voiced obs with no voiceless eq.
-Judeo-Spanish	ladi1251	Istanbul Judeo-Spanish	b d̻ ɡ	Has spirantizing plosives
-MIXTEC	sanm1295	NA	ð	Voiced obs with no voiceless eq.
-KAREN	sgaw1245	NA	z͇ ɦ	Voiced obs with no voiceless eq.
-NERA	nara1262	NA	d̠ʒ	Voiced obs with no voiceless eq.
-Mundari	mund1320	NA	ˀd ˀd̠ʒ ˀɖ ˀɡ	Voiced obs with no voiceless eq.
-Huastec	huas1242	Potosino dialect	b	Has spirantizing plosives
-WOLOF	nucl1347	NA	ɟː	Voiced obs with no voiceless eq.
-Kimaragang	kima1244	Tandek	d̠ʒ	Voiced obs with no voiceless eq.
-English (British)	stan1293	Tyneside English (spoken in Newcastle)	d d	Has spirantizing plosives; Voiced obs with no voiceless eq.
-Arabe	suda1236	NA	d̠ʒ d̠ʒː	Voiced obs with no voiceless eq.
-English (British)	stan1293	Liverpool	b d ɡ	Has spirantizing plosives; Voiced obs with no voiceless eq.
-English (Australian)	stan1293	NA	d d	Has both sonorous and voiceless allophone; Voiced obs with no voiceless eq.
-ALEUT	aleu1260	NA	ð	Voiced obs with no voiceless eq.
-Bashkir	bash1264	Bashkir (Standard)	ʁ	Voiced obs with no voiceless eq.
-Dutch	dutc1256	the dialect of Hasselt (belongs to the West-Limburgian dialect group)	d̠ʒ	Voiced obs with no voiceless eq.
-BATAK	bata1289	NA	d̠ʒ	Voiced obs with no voiceless eq.
-Cwaya	shwa1239	NA	ð	Voiced obs with no voiceless eq.
-Tarok	taro1263	NA	dz	Voiced obs with no voiceless eq.
-!Xun	kung1261	W2	d̠ʒː ɦ	Voiced obs with no voiceless eq.
-Pisamira	pisa1245		ʝ	Voiced obs with no voiceless eq.
-NORWEGIAN	norw1259	NA	d̪ ɖ ɡ	Voiced obs with no voiceless eq.
-NEWARI	newa1246	NA	ɦ	Voiced obs with no voiceless eq.
-Pero	pero1241	NA	b ɡ	Has spirantizing plosives
-Dagbani	dagb1246	NA	ɡ	Has spirantizing plosives
-Marwari	marw1260	NA	ʝ	Voiced obs with no voiceless eq.
-Chiriguano	east2555	Izoceño dialect	ʝ	Voiced obs with no voiceless eq.
-Joola Huluf	jola1262	NA	d̠ʒ	Voiced obs with no voiceless eq.
-SENECA	sene1264	NA	d̪z̪|dz	Voiced obs with no voiceless eq.
-Mokpwe	mokp1239	NA	d̠ʒ ʒ	Voiced obs with no voiceless eq.
-Chiriguano	east2555	Chané dialect	ʝ	Voiced obs with no voiceless eq.
-American English	stan1293	Southeastern Michigan	d ɡ	Voiced obs with no voiceless eq.
-Fang	fang1248	NA	ʒ	Voiced obs with no voiceless eq.
-Avá-Canoeiro	avac1239		ʁ	Voiced obs with no voiceless eq.
-Paraguayan Guaraní	para1311		d̠ʒ ɣʷ	Voiced obs with no voiceless eq.
-Umotína	umot1240		z	Voiced obs with no voiceless eq.
-Koorete	koor1239	NA	d dz dː d̠ʒ ɡ	Voiced obs with no voiceless eq.
-Kare	kare1338	NA	d̠ʒ	Voiced obs with no voiceless eq.
-Karajá	kara1500		d	Voiced obs with no voiceless eq.
-Jemez	jeme1245	NA	ɡ ɡʲ	Voiced obs with no voiceless eq.
-Otuho	otuh1238	NA	d	Voiced obs with no voiceless eq.
-Andoke	ando1256		ɟ	Voiced obs with no voiceless eq.
-Toba	toba1269	Takshek dialect	ʁ	Voiced obs with no voiceless eq.
-Pilagá	pila1245		ʕ	Voiced obs with no voiceless eq.
-Sakha	yaku1245	Sakha (Standard)	ʁ	Voiced obs with no voiceless eq.
-Persian	west2369	NA	d ɡ	Voiced obs with no voiceless eq.
-Günün Yajich	puel1244		ɡ ʱd	Voiced obs with no voiceless eq.
-lega-shabunda	lega1249	beya	ɟ ɡ	Has spirantizing plosives; Voiced obs with no voiceless eq.
-Hixkaryána	hixk1239		dʲ	Voiced obs with no voiceless eq.
-KAWAIISU	kawa1283	NA	ɣʷ	Voiced obs with no voiceless eq.
-Miraña	mira1254	Miraña	ɡʷ	Voiced obs with no voiceless eq.
-Slovak	slov1269	Slovak (Standard)	ɦ	Voiced obs with no voiceless eq.
-Ngomba	ngom1272	NA	bv dz ɡ	Has spirantizing plosives
-Urdu	urdu1245	NA	z	Voiced obs with no voiceless eq.
-Urali	ural1274	NA	ð	Voiced obs with no voiceless eq.
-Zapotec	loxi1235	Loxicha	z ɣʷ	Voiced obs with no voiceless eq.
-Soːra	sora1254	NA	d ɟʝ	Voiced obs with no voiceless eq.
-Nchufie	bafa1249	NA	ɣ	Voiced obs with no voiceless eq.
-Kharia	khar1287	NA	ɦ	Voiced obs with no voiceless eq.
-Indonesian	indo1316	Central Java	d	Voiced obs with no voiceless eq.
-Mising	miny1240	NA	ɟʝ	Voiced obs with no voiceless eq.
-Gutob	bodo1267	NA	t̪̰	Voiced obs with no voiceless eq.
-YORUBA	yoru1245	NA	d̠ʒ	Voiced obs with no voiceless eq.
-Wolof	nucl1347	NA	dː d̠ʒː ɡː	Voiced obs with no voiceless eq.
-Ouldeme	wuzl1236	NA	ɣʷ	Voiced obs with no voiceless eq.
-Palauan	pala1344	NA	d̪	Has spirantizing plosives
-Warluwarra	warl1256	NA	ʐ ʑ	Voiced obs with no voiceless eq.
-Angas	ngas1240	NA	d d̠ʒ ɡ ɣ	Voiced obs with no voiceless eq.
-Nara	nara1262	Higir	ɡ	Has spirantizing plosives
-Hill Mari	west2392	Hill Mari (Kozmodemjansk)	ð̪̺	Voiced obs with no voiceless eq.
-Ikalanga	ikal1242	NA	bɡ d dzʷ dʷ d̠ʒ̤ ɦ	Voiced obs with no voiceless eq.
-COFAN	cofa1242	NA	ʑ	Voiced obs with no voiceless eq.
-Modern Hebrew	hebr1245	NA	ʁ	Voiced obs with no voiceless eq.
-Kashimiri	kash1277	NA	ɦ	Voiced obs with no voiceless eq.
-YUKAGHIR	nort2745	NA	ʁ	Voiced obs with no voiceless eq.
-SOMALI	soma1255	NA	d̪ ɖ̰ ɡ ɢ	Voiced obs with no voiceless eq.
-ASMAT	tamn1235	NA	ʝ	Voiced obs with no voiceless eq.
-Bengali	beng1280	NA	b̤ d̠ʒ	Has spirantizing plosives
-Santali	sant1410	NA	t̪̰	Voiced obs with no voiceless eq.
-Nyam	nyam1285	NA	dʲ ɡɓ	Voiced obs with no voiceless eq.
-TAMASHEQ	taha1241	NA	z̪ˤ	Voiced obs with no voiceless eq.
-KOHUMONO	kohu1244	NA	ɡ ɡʷ	Voiced obs with no voiceless eq.
-babole	dibo1245	NA	b	Has spirantizing plosives
-Kharia	khar1287	NA	ɦ	Voiced obs with no voiceless eq.
-Kensei Nsei	kens1251	NA	ʒ ʒʷ	Voiced obs with no voiceless eq.
-Dutch	dutc1256	Belgian Standard Dutch	ɦ	Voiced obs with no voiceless eq.
-PAIWAN	paiw1248	NA	ɖ	Voiced obs with no voiceless eq.
-Huaylas	huay1240	NA	b d	Has spirantizing plosives
-Kharia	khar1287	NA	ɟʱ ɦ ˀɟ	Voiced obs with no voiceless eq.
-Sinhalese	sinh1246	NA	b d ɡ ɦ	Has spirantizing plosives; Voiced obs with no voiceless eq.
-German	stan1295	NA	d ɡ ʁ ʁ	Has both sonorous and voiceless allophone; Voiced obs with no voiceless eq.
-YAWA	nucl1454	NA	d̠ʒ	Voiced obs with no voiceless eq.
-Satawalese	sata1237	NA	ɡ	Has spirantizing plosives
-ACOMA	west2632	NA	d̠ʒ d̪ d̪z̪ ɖʐ ɡ	Voiced obs with no voiceless eq.
-Mboó	mboc1235	NA	d̠ʒ	Voiced obs with no voiceless eq.
-IGBO	nucl1417	NA	d̠ʒ	Voiced obs with no voiceless eq.
-Akan	akan1250	NA	d d ɟʝ ɟʝʷ ɡ	Has spirantizing plosives; Voiced obs with no voiceless eq.
-KHASI	khas1269	NA	d̠ʒ	Voiced obs with no voiceless eq.
-Tuva; Tuvan	tuvi1240	NA	ɡ	Has spirantizing plosives
-KANAKURU	dera1248	NA	ɮ	Voiced obs with no voiceless eq.
-Kada	gida1247	Guidar	ɟ	Voiced obs with no voiceless eq.
-Nkonya	nkon1248	NA	ɦ	Voiced obs with no voiceless eq.
-Tarascan	pure1242	NA	b d ɡ	Has spirantizing plosives
-Ewe	ewee1241	NA	d̻ ɡ	Voiced obs with no voiceless eq.
-Bangolan	bang1356	NA	ɡ	Has spirantizing plosives
-Wambon	wamb1259	NA	d̠ʒ	Voiced obs with no voiceless eq.
-FUR	furr1244	NA	d̠ʒ	Voiced obs with no voiceless eq.
-Tagalog	taga1270	NA	b	Has spirantizing plosives
-Kurtjar	gurd1238	NA	ð	Voiced obs with no voiceless eq.
-Logo	logo1259	NA	b	Has spirantizing plosives
-matuumbi	matu1259	NA	ɡ	Voiced obs with no voiceless eq.
-BEJA	beja1238	NA	d̠ʒ	Voiced obs with no voiceless eq.
+Ngan'gityemerri	nang1259	NA	z̺	Voiced obs with no voiceless eq.
+Kolyma Yukaghir	sout2750	NA	ʁ	Voiced obs with no voiceless eq.
 Portuguese	port1283	Portuguese (Estremenho)	ʁ	Voiced obs with no voiceless eq.
-BURUSHASKI	buru1296	NA	ʐ͇	Voiced obs with no voiceless eq.
-ALAMBLAK	alam1246	NA	d ɡ	Voiced obs with no voiceless eq.
-Inuit	kala1399	NA	ʁ ʝ	Voiced obs with no voiceless eq.
-Turkish	nucl1301	NA	d d̠ʒ ɡ	Voiced obs with no voiceless eq.
-ngwe	ngwe1238	NA	ɡ	Has spirantizing plosives
-ARRERNTE	east2379	NA	d̠ⁿ d̪ⁿ dⁿ ɖⁿ ɡⁿ	Voiced obs with no voiceless eq.
-Apinaye	apin1244	NA	ʒ	Voiced obs with no voiceless eq.
-Basari	ntch1242	NA	d d̠ʒ ɡ	Voiced obs with no voiceless eq.
-BOBO-FING	nort2819	NA	d ɡ	Voiced obs with no voiceless eq.
-Nawdm	nawd1238	NA	d̠ʒ	Voiced obs with no voiceless eq.
-Baka	baka1272	NA	d̠ʒ	Voiced obs with no voiceless eq.
-Somali	soma1255	NA	b d dː ɡ ɡ ɡː ɢ ɢ ɢː ᶑ	Has both sonorous and voiceless allophone; Has spirantizing plosives; Voiced obs with no voiceless eq.
-Dagara	nort2780	NA	ɡ	Has spirantizing plosives
-Thaadou	thad1238	NA	ɦ	Voiced obs with no voiceless eq.
-ABIPON	abip1241	NA	ʁ	Voiced obs with no voiceless eq.
-Totela	tote1238	NA	d̠ʒ ɣʷ	Voiced obs with no voiceless eq.
-Krenak	kren1239		ʒ	Voiced obs with no voiceless eq.
-Antiguan Creole	anti1245	NA	b	Has spirantizing plosives
-Wapishana	wapi1253	NA	d dˀ dˀ ɡ	Has both sonorous and voiceless allophone; Voiced obs with no voiceless eq.
-Nagamese	naga1394	NA	bʱ	Has spirantizing plosives
-Breton	bret1244	NA	d ɡ	Voiced obs with no voiceless eq.
-Burji	burj1242	NA	ɡ	Voiced obs with no voiceless eq.
-Nigerian Pidgin	nige1257	NA	b d ɡ	Has spirantizing plosives; Has both sonorous and voiceless allophone
-Ahanta	ahan1243	NA	b ɡʷ	Has spirantizing plosives; Voiced obs with no voiceless eq.
-Balese	lese1243	NA	dʷ	Voiced obs with no voiceless eq.
-Georgian	nucl1302	NA	β	Has both sonorous and voiceless allophone
-Barein (Jalkiya)	bare1279	Jalkiya	ɟː	Voiced obs with no voiceless eq.
-Southwestern Pashto	sout2436	Southwestern Pashto (Kandahar)	dz d̠ʒ d̪ ɖ ɡ	Voiced obs with no voiceless eq.
-Godoberi	ghod1238	NA	d d̠ʒ ɡ	Voiced obs with no voiceless eq.
-HUAVE	sanm1287	NA	z̪͇|z͇	Voiced obs with no voiceless eq.
-Belanda Viri	bela1255	NA	d̠ʒ	Voiced obs with no voiceless eq.
-Urii	urii1240	NA	ɡ	Has spirantizing plosives
-Yuqui	yuqu1240		ʝ	Voiced obs with no voiceless eq.
-DYIRBAL	dyir1250	NA	d ɡ	Voiced obs with no voiceless eq.
-Kom	komc1235	NA	ɣʲ	Voiced obs with no voiceless eq.
-Bongo	bong1285	NA	b ɡ	Has spirantizing plosives
-Wichita	wich1260	NA	ɦ	Voiced obs with no voiceless eq.
-Ladakhi	lada1244	NA	b d̪ ɡ ɮ	Has spirantizing plosives; Voiced obs with no voiceless eq.
-CHUKCHI	chuk1273	NA	ʐ͇	Voiced obs with no voiceless eq.
-IRISH	iris1253	NA	d ɡ ɡʲ	Voiced obs with no voiceless eq.
-Mbodomo; Mbódɔ̀mɔ́	gbay1281	NA	ɡ	Has spirantizing plosives
-Krio	krio1253	NA	ʁ	Voiced obs with no voiceless eq.
-Ndonga (Eunda)	ndon1254	Eunda	dʲ	Voiced obs with no voiceless eq.
-Mvumbo	mvum1238	NA	b ɡ	Has spirantizing plosives
-San Bartolomé Zoogocho Zapotec	zoog1238	zxon	ʁ	Voiced obs with no voiceless eq.
-Yuma	quec1382	NA	ð	Voiced obs with no voiceless eq.
-Korafe	kora1295	NA	d d̠ʒ ɡ ɣ	Voiced obs with no voiceless eq.
-NGANASAN	ngan1291	NA	ð	Voiced obs with no voiceless eq.
-AMELE	amel1241	NA	ʝ	Voiced obs with no voiceless eq.
-georgian	nucl1302	Standard (or literary) georgian (Kartluri dialect)	d̪ ɡ	Voiced obs with no voiceless eq.
-!Xóõ	huaa1248	NA	ɟ	Voiced obs with no voiceless eq.
-Yukaghir (Kolyma)	sout2750	Southern	d̠ʒ ʁ	Has spirantizing plosives; Voiced obs with no voiceless eq.
-Afrikaans	afri1274	NA	ɦ	Voiced obs with no voiceless eq.
-Xumi	shix1238	Upper Xumi	b dz ɖʐ	Has both sonorous and voiceless allophone; Has spirantizing plosives
-Bubia	bubi1249	NA	ʒ	Voiced obs with no voiceless eq.
-Albanian	tosk1239	NA	ɟʝ	Has spirantizing plosives
-Hup	hupd1244	NA	b̰ d̰ ɟ̰̩ ɡ̰	Has both sonorous and voiceless allophone
-Hoava	hoav1238	NA	d̠ʒ	Voiced obs with no voiceless eq.
-Kaliai	kali1299	NA	ɡɣ	Voiced obs with no voiceless eq.
-Efutu	efut1241	NA	dᶣ	Voiced obs with no voiceless eq.
-GA	gaaa1244	NA	d d̠ʒ ɡ	Voiced obs with no voiceless eq.
-Toba (Argentina)	toba1269	NA	d ɡ	Voiced obs with no voiceless eq.
-Upper Sorbian	uppe1395	NA	z̪ʲ	Voiced obs with no voiceless eq.
-Yemsa	yems1235	NA	b ɡ	Has spirantizing plosives
-Awetí	awet1244		ʐ	Voiced obs with no voiceless eq.
-Tilquiapan Zapotec	tilq1235	NA	b d̪ ɡ	Has spirantizing plosives
-BAI	cent2004	NA	z̪	Voiced obs with no voiceless eq.
-Cheremis	east2328	NA	b d̪ ɡ	Has spirantizing plosives
-Nsoʼ	lamn1239	NA	b ɣv	Has spirantizing plosives; Voiced obs with no voiceless eq.
-Saotomense	saot1239	NA	z ʒ	Voiced obs with no voiceless eq.
-Karo	karo1306	NA	b ɡ	Has spirantizing plosives
-mongo-nkundu	mong1338	NA	d̠ʒ d̠ʒʷ	Voiced obs with no voiceless eq.
-RUTUL	rutu1240	NA	d̠ʒ d̠ʒʷ d̪z̪|dz d̪|d ɡ ɡʷ ɢ ɢʷ ɢʷˤ ɢˤ	Voiced obs with no voiceless eq.
-Manya	many1261	NA	d̠ʒ	Voiced obs with no voiceless eq.
-Kashmiri	kash1277	NA	ɦ	Voiced obs with no voiceless eq.
-Sipakapense Maya	sipa1247	NA	t̠ʃ̰	Voiced obs with no voiceless eq.
-Tepehua	tlac1235	NA	t̠ʃ̰	Voiced obs with no voiceless eq.
-Arandai	aran1237	NA	ɟ	Voiced obs with no voiceless eq.
-Japanese	nucl1643	Japanese (Tokyo or other areas with similar pitch accent systems)	ɡ	Has spirantizing plosives
-Lukundu	orok1266	NA	b	Has spirantizing plosives
+Burushaski	buru1296	Burushaski (Hunza)	ʐʲ	Voiced obs with no voiceless eq.
 Uyghur	uigh1240	Uyghur (Xinjiang)	ʁ	Voiced obs with no voiceless eq.
-Telugu	telu1262	NA	d ɦ	Has spirantizing plosives; Voiced obs with no voiceless eq.
-Ostyak	khan1273	NA	ɣ	Voiced obs with no voiceless eq.
-Logba	logb1245	NA	ɦ	Voiced obs with no voiceless eq.
-Tunica	tuni1252	NA	d ɡ	Voiced obs with no voiceless eq.
-Boro	boro1277	NA	b d ɡ	Has spirantizing plosives; Voiced obs with no voiceless eq.
-Kpɛlɛwoo	guin1254	NA	dʲ	Voiced obs with no voiceless eq.
-Suri	suri1267	Tirmaga	b ɡ	Has spirantizing plosives
-GUARANI	para1311	NA	ð	Voiced obs with no voiceless eq.
-Gadsup	gads1258	NA	d	Voiced obs with no voiceless eq.
-Punjabi	panj1256	NA	ɦ	Voiced obs with no voiceless eq.
-Hindi-Urdu	hind1269	NA	ɦ ʒ	Voiced obs with no voiceless eq.
-Oromo, Eastern	east2652	Harar	d dː ɡ	Voiced obs with no voiceless eq.
-Huichol	huic1243	NA	ʐ	Voiced obs with no voiceless eq.
-Wolof	nucl1347	NA	ɟː	Voiced obs with no voiceless eq.
-LAK	lakk1252	NA	d̪|d ɡ ɢ ɢʷ	Voiced obs with no voiceless eq.
-Japanese	nucl1643	NA	d̠ʒ	Has spirantizing plosives
-Belait	bela1260	Metting	ʁ	Voiced obs with no voiceless eq.
-Lebanese Arabic	liby1240	NA	ðˠ	Voiced obs with no voiceless eq.
-mada	mada1282	NA	d ɡ	Voiced obs with no voiceless eq.
-Mbiywom	mbiy1238	NA	ð ɣ	Voiced obs with no voiceless eq.
-Wan	wann1242	NA	ɓ	Has spirantizing plosives
-MBABARAM	mbab1239	NA	d̠ d̪|d ɡ ɡʷ	Voiced obs with no voiceless eq.
-AWIYA	awng1244	NA	ɖ	Voiced obs with no voiceless eq.
-Frafra	fraf1238	Gudeni	ɡ ɡ	Has spirantizing plosives; Voiced obs with no voiceless eq.
-SINHALESE	sinh1246	NA	ɦ	Voiced obs with no voiceless eq.
-Ibibio	ibib1240	Uruan area and Uyo	b d	Has spirantizing plosives; Voiced obs with no voiceless eq.
-YANA	yana1271	NA	d̠ʒ d̪ ɡ	Voiced obs with no voiceless eq.
-Amharic	amha1245	NA	b	Has spirantizing plosives
-Kaiwá	kaiw1246		d̠ʒ	Voiced obs with no voiceless eq.
-Xavánte	xava1240		ɣ	Voiced obs with no voiceless eq.
-Jamsay, Dogon	jams1239	NA	d ɡ ɡ	Has spirantizing plosives; Voiced obs with no voiceless eq.
-Kalabari; Kirike; Kalabari-Ijo	kala1381	Kalabari-Ijo	d̠ʒ ɦ	Voiced obs with no voiceless eq.
-Garo	garo1247	NA	d ɡ ɡ	Has spirantizing plosives; Voiced obs with no voiceless eq.
-Tigre	tigr1270	NA	d d̠ʒ ɡ	Voiced obs with no voiceless eq.
-Mbara	mbar1254	NA	ð ʑ	Voiced obs with no voiceless eq.
+Tosk Albanian	tosk1239	Tosk Albanian (Korçë)	ð͇ˠ	Voiced obs with no voiceless eq.
 Dongwang Tibetan	kham1282	NA	ɮ	Voiced obs with no voiceless eq.
-Kanga (Kufa)	kang1288	Kufa	ɟː	Voiced obs with no voiceless eq.
-Logbara	lugb1240	NA	ˀd̪	Voiced obs with no voiceless eq.
-Luo	luok1236	NA	d d̠ʒ d̠ʒ d̪ð ɡ	Has spirantizing plosives; Voiced obs with no voiceless eq.
-DOGON	toro1252	NA	d̠ʒ	Voiced obs with no voiceless eq.
-Eloyi	eloy1241	NA	b d̠ʒ d̠ʒ	Has spirantizing plosives; Voiced obs with no voiceless eq.
-Spanish	stan1288	Spanish (Castilian)	ɟʝ	Voiced obs with no voiceless eq.
-Gaahmg	gaam1241	NA	dː d̪ː ɟː ɡː	Voiced obs with no voiceless eq.
-FIJIAN	fiji1243	NA	ð	Voiced obs with no voiceless eq.
-Mbo (Ekanang)	mboc1235	Ekanang	ɟ	Voiced obs with no voiceless eq.
-Assamese	assa1263	NA	ɦ	Voiced obs with no voiceless eq.
-MAZATEC	chiq1250	NA	ð	Voiced obs with no voiceless eq.
-Khasi	khas1269	NA	ɟʝ ɟ̤ʝ	Voiced obs with no voiceless eq.
+Baoan	bona1250	Baoan (Ñantoq)	ʒ	Voiced obs with no voiceless eq.
+Hill Mari	west2392	Hill Mari (Jaransk)	ð̪̺	Voiced obs with no voiceless eq.
+Skolt Saami	skol1241	Skolt Saami (Suõʹnnʼjel)	ðʲ	Voiced obs with no voiceless eq.
+Chechen	chec1245	Chechen (Ploskost)	ʁ	Voiced obs with no voiceless eq.
+Campidanese Sardinian	camp1261	Campidanese Sardinian (Sestu)	ʁ	Voiced obs with no voiceless eq.
+Nuer	nuer1246	NA	ɦ	Voiced obs with no voiceless eq.
+Aghem	aghe1239	NA	ɣ	Voiced obs with no voiceless eq.
+Looma	loma1260	NA	ɣ	Voiced obs with no voiceless eq.
+Cwaya	shwa1239	NA	ð	Voiced obs with no voiceless eq.
+Yuqui	yuqu1240		ʝ	Voiced obs with no voiceless eq.
+Pisamira	pisa1245		ʝ	Voiced obs with no voiceless eq.
+Laarim	nari1240	NA	ð	Voiced obs with no voiceless eq.
+Arabic	stan1318	Safad, Beirut, Damascus, Kuwait	ð̪̙ˤ ɣ ʕ̙	Voiced obs with no voiceless eq.
+Ket	kett1243	NA	ʝ	Voiced obs with no voiceless eq.
+Kabardian	kaba1278	NA	ɦ	Voiced obs with no voiceless eq.
+Saxwe, Gbe	saxw1241	NA	ɦ ɦʷ	Voiced obs with no voiceless eq.
+Ndebele	nort2795	NA	ɣ ʒ	Voiced obs with no voiceless eq.
+Dutch	dutc1256	Belgian Standard Dutch	ɦ	Voiced obs with no voiceless eq.
+Dutch	dutc1256	the dialect of Maastricht (south-eastern dialect group; Central Limburgian)	ɦ	Voiced obs with no voiceless eq.
+Dutch	dutc1256	the Belgian Limburg dialect of Hamont (belongs to the West Limburg dialects, subclassification: Dommellands)	ɦ	Voiced obs with no voiceless eq.
+French	stan1290	French (Parisian speaker)	ʁ	Voiced obs with no voiceless eq.
+Kharia	khar1287	NA	ɦ	Voiced obs with no voiceless eq.
+Dafla	nyis1236	NA	ɦ	Voiced obs with no voiceless eq.
+Karen	sgaw1245	NA	ɦ	Voiced obs with no voiceless eq.
+Atayal	atay1247	NA	ʒ	Voiced obs with no voiceless eq.
+Asmat	tamn1235	NA	ʝ	Voiced obs with no voiceless eq.
+Inuit	kala1399	NA	ʁ ʝ	Voiced obs with no voiceless eq.
+Luxembourgish	luxe1241	Standard central Luxembourgish	ʁ	Has both sonorous and voiceless allophone
+Mayogo	mayo1261	NA	ɦ	Voiced obs with no voiceless eq.
+Mavea	mafe1237	Mavea	v	Has both sonorous and voiceless allophone
+Wichita	wich1260	NA	ɦ	Voiced obs with no voiceless eq.
+Nepali	nepa1254	Standard (eastern)	ɦ	Voiced obs with no voiceless eq.
+Khalkhal	khal1271	NA	ɣ	Voiced obs with no voiceless eq.
+Nkonya	nkon1248	NA	ɦ	Voiced obs with no voiceless eq.
+Principense	prin1242	NA	ʒ	Voiced obs with no voiceless eq.
+Portuguese (European)	port1283	Lisbon	ʁ	Voiced obs with no voiceless eq.
+Portuguese (Brazilian)	port1283	São Paulo	z	Voiced obs with no voiceless eq.
+Pichi	fern1234	NA	ʁ	Voiced obs with no voiceless eq.
+Slovak	slov1269	Standard Slovak (Bratislava / Kos̆ice)	ɦ	Voiced obs with no voiceless eq.
+Apinaye	apin1244	NA	ʒ	Voiced obs with no voiceless eq.
+Didinga	didi1258	NA	ðː ʒ	Voiced obs with no voiceless eq.
+Lagwan	lagw1237	NA	ʁ ʁʷ	Voiced obs with no voiceless eq.
+Afrikaans	afri1274	NA	ɦ	Voiced obs with no voiceless eq.
+Bukharan Tajik	taji1245	Bukharan	ʁ	Voiced obs with no voiceless eq.
+!Xun	kung1261	W2	ɦ	Voiced obs with no voiceless eq.
+Kumzari	kumz1235	Kumzari spoken in Khasab, Oman	ɦ	Voiced obs with no voiceless eq.
+Cocos Malay	coco1260	Spoken in Kampung Cocos in the Lahad Datu district of Sabah, Malaysia	ʁ	Voiced obs with no voiceless eq.
+Tadaksahak	tada1238	NA	zː	Voiced obs with no voiceless eq.
+Angas	ngas1240	NA	ɣ	Voiced obs with no voiceless eq.
+Avikam	avik1243	NA	ɣ	Voiced obs with no voiceless eq.
+Tashlhiyt Berber	tach1250	NA	ʁ ʁʷ ʁʷː ʁː ʒˤː ʕ ʕː	Has both sonorous and voiceless allophone; Voiced obs with no voiceless eq.
+Egyptian Arabic	egyp1253	NA	ðˤ	Voiced obs with no voiceless eq.
+Siwu	siwu1238	NA	ʕ	Voiced obs with no voiceless eq.
+Rigwe	irig1241	NA	ðʲ	Voiced obs with no voiceless eq.
+Telugu	telu1262	NA	ɦ	Voiced obs with no voiceless eq.
+Georgian	nucl1302	NA	β	Has both sonorous and voiceless allophone
+German	stan1295	NA	ʁ ʁ	Voiced obs with no voiceless eq.; Has both sonorous and voiceless allophone
+Igbo	nucl1417	Standard Igbo (can be seen as a fusion of aspects of central Igbo and Onitsha Igbo; cannot be localised in any particular region or area of Igboland)	ɦ	Voiced obs with no voiceless eq.
+Italian	ital1282	Standard Italian	ʒ	Voiced obs with no voiceless eq.
+Shixing	shix1238	NA	z̩	Voiced obs with no voiceless eq.
+Chechen	chec1245	Chechen (Şaroy)	ʁ	Voiced obs with no voiceless eq.
+Soghpo Tibetan	kham1282	NA	ʱz ʱʐ ʷz ʷʐ ʷʑ	Voiced obs with no voiceless eq.
+Modern Hebrew	hebr1245	NA	ʁ	Voiced obs with no voiceless eq.
+Xumi	shix1238	Lower Xumi	ʁ	Voiced obs with no voiceless eq.
+Tod Tibetan	stod1241	NA	z	Voiced obs with no voiceless eq.
+Aari	aari1239	NA	ɦ	Voiced obs with no voiceless eq.
+Northern Saami	nort2671	Guovdageaidnu	ðː	Voiced obs with no voiceless eq.
+Meadow Mari	east2328	Meadow Mari (Morki-Sernur)	ð̪̺	Voiced obs with no voiceless eq.
+Meadow Mari	east2328	Meadow Mari (Volga)	ð̪̺	Voiced obs with no voiceless eq.
+Ingush	ingu1240	NA	zˤ ʁ ʒˤ	Voiced obs with no voiceless eq.
+Darkhat	dark1243	NA	ʝ	Voiced obs with no voiceless eq.
