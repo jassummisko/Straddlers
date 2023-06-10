@@ -1,4 +1,4 @@
-import "dianchi" as dch 
+import "lib/dianchi" as dch 
 import strtools from dch
 unidecode = require "unicorndecode"
 decode = unidecode.decode

@@ -1,4 +1,4 @@
-dch = require "dianchi"
+dch = require "lib/dianchi"
 dch.misc.importAll dch.functools
 unidecode = require "unicorndecode"
 import normalize from require "utils"
