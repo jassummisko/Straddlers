@@ -49,9 +49,9 @@ params = {
 }
 
 response0 = requests.get('https://phoible.org/languages', params=params, headers=headers)
-params['iDisplayStart'] = 1000
+params['iDisplayStart'] = '1000'
 response1 = requests.get('https://phoible.org/languages', params=params, headers=headers)
-params['iDisplayStart'] = 2000
+params['iDisplayStart'] = '2000'
 response2 = requests.get('https://phoible.org/languages', params=params, headers=headers)
 
 data0 = json.loads(response0.text)
@@ -63,7 +63,7 @@ lines = ["Name\tCode\tFamily\tArea\n"]
 for data in [data0, data1, data2]:
     for el in data['aaData']:
         name  = BeautifulSoup(el[0]).text.strip()
-        code  = re.findall('([^\/]+$)', BeautifulSoup(el[0]).find_all('a', href=True)[0]['href'])[0].strip()
+        code  = re.findall(r'([^\/]+$)', BeautifulSoup(el[0]).find_all('a', href=True)[0]['href'])[0].strip()
         family = BeautifulSoup(el[2]).text.strip()
         area = BeautifulSoup(el[5]).text.strip()
         line = "\t".join([name, code, family, area]) + "\n"
